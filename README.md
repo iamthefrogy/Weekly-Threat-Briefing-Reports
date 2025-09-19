@@ -12,6 +12,16 @@ The information is aggregated from various open-source intelligence (OSINT) sour
 
 ---
 
+## Latest Reports
+
+Here are the most recent threat briefing reports:
+
+* [**TH-18-Sep-2025.md**](https://github.com/iamthefrogy/Daily-Threat-Briefing-Reports/blob/main/TH-18-Sep-2025.md)
+
+*You can browse all reports by navigating the file list in the repository.*
+
+---
+
 ## Report Structure
 
 Each daily briefing report is a markdown file named in the format `TH-DD-Mon-YYYY.md`. The reports are organized into the following sections:
