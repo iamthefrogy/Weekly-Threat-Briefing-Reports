@@ -12,7 +12,7 @@ The information is aggregated from various open-source intelligence (OSINT) sour
 
 ---
 
-## Latest Reports
+## Latest Report
 
 Here are the most recent threat briefing reports:
 
