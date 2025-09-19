@@ -52,6 +52,38 @@ Each daily briefing report is a markdown file named in the format `TH-DD-Mon-YYY
 
 ---
 
-## Disclaimer
 
+## Notes (Scope, Method, and Expectations)
+
+### Focus, brevity, and actionability
+
+#### Reports are intentionally concise: prioritised by impact > likelihood > exploitability with clear severity tags.
+
+- I try to de-duplicate across sources and collapse near-identical IOCs/campaigns to reduce noise.
+- “Vulnerability & Exploitation Watch” favours actively exploited or high-likelihood items over long CVE lists.
+- Where possible, I include why it matters and what to do next (hunt queries, patch guidance, detection hints).
+
+#### Cadence & SLA (managing expectations)
+- Target is daily output; occasional gaps may occur due to source quality/availability or maintenance.
+- I’ll choose quality over strict cadence—better a tight, accurate brief than a noisy one.
+
+#### Sources, automation & future enhancements
+- 100% OSINT; aggregation via a local workflow (n8n).
+- Every report includes a Source Log for transparency and independent verification.
+- Method improvements planned: better normalisation, IOC enrichment (whois/VT context), and scoring to highlight what deserves attention.
+
+#### Context & limitations (how to use this responsibly)
+- These briefs are not a substitute for your org’s context. Map items to your stack (variants, versions, exposure, crown jewels and tech echo system).
+- Treat IOCs as starting points—validate against your telemetry to avoid false positives.
+- “Detections & Response Playbook Updates” are suggestions, not prescriptive rules; tune to your data model (e.g., Sigma/EDR dialect).
+- Risk varies by sector/region; the Sector & Geo Risk Signals section flags where relevance may be higher/lower.
+
+#### Quality controls
+- I remove uncorroborated claims, label rumour/low confidence, and update/correct in subsequent briefs. 
+- Duplicates and stale campaigns are suppressed unless there are new TTPs, infrastructure, or exploitation.
+
+#### Privacy & ethics
+- No ingestion of private datasets or customer data. Only public OSINT.
+
+## Disclaimer
 [The information provided in these reports is for informational and educational purposes only. It is compiled from open-source intelligence and is provided "as is" without any warranty of any kind. The user assumes all risk of use. The author is not responsible for any actions taken based on the information in these reports.](https://chintangurjar.com/disclaimer/)
