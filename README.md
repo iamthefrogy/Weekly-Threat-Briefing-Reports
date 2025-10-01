@@ -12,17 +12,6 @@ This repository contains daily cyber threat intelligence briefing reports genera
 This repository is an automated collection of daily cyber threat intelligence reports. Each report is generated to provide a comprehensive overview of the current threat landscape, helping security professionals, researchers, and enthusiasts stay informed about emerging risks.
 
 The information is aggregated from various open-source intelligence (OSINT) sources and is structured to be easily digestible and actionable.
-
----
-
-## Latest Report
-
-Here are the most recent threat briefing reports:
-
-* [**TH-18-Sep-2025.md**](https://github.com/iamthefrogy/Daily-Threat-Briefing-Reports/blob/main/TH-18-Sep-2025.md)
-
-*You can browse all reports by navigating the file list in the repository.*
-
 ---
 
 ## Report Structure
