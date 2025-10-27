@@ -296,7 +296,6 @@ Domain Name,verifyaccount.org
 SHA256,1f3870be274f6c49b3e31a0c6728957f00000000000000000000000000000000
 SHA256,3c59dc048e8850243be8079a5c74d07900000000000000000000000000000000
 MD5,8f14e45fceea167a5a36dedd4bea2543
-MD5,c9f0f895fb98ab9159f51fd0297e236d
 Filename,oct9_security_patch.exe
 Filename,account_login_form.docx
 Email Address,admin@secureloginportal.com
@@ -310,7 +309,7 @@ MD5,827ccb0eea8a706c4c34a16891f84e7b
 MD5,e1671797c52e15f763380b45e841ec32
 Filename,oct_patch_update.exe
 Filename,login_credentials.docx
-Email Address,support@loginverify.com
+Email Address,support@loginverify.com1
 Email Address,admin@secureupdate.net
 Filename,security_patch_oct.exe
 Email Address,admin@accountupdate.com
