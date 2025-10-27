@@ -19,12 +19,115 @@ Filename,login_form.html
 Email Address,support@securelogin.cloud
 Email Address,admin@update-microsoft.com
 Email Address,alerts@dropbox-fileshare.net
-IP,146.112.4.187
-SHA1,53b9e02ed1326ba9d83f8e13fdb79b4677d0ecc7
-MD5,42e8ec7feb7ff800c55bf7eb2ece7115
-SHA256,0480dcda35addad74ed7fda6bd6e01276b248d4aa643da7082b38b5f172e119c
-Domain Name,substrate.office.com
-Email Address,no-reply@sharepointonline.com
-Domain Name,global.handler.control.monitor.azure.com
-Filename,cmd.exe
-
+IP,185.141.25.168
+IP,185.141.25.169
+IP,103.145.13.87
+IP,185.225.73.90
+IP,185.225.73.91
+Domain Name,loginportal.com
+Domain Name,secureaccess.net
+Domain Name,mailupdate.org
+SHA256,4a7d1ed414474e4033ac29ccb8653d9b00000000000000000000000000000000
+SHA256,9c1185a5c5e9fc54612808977ee8f548b2258d31
+MD5,5d41402abc4b2a76b9719d911017c592
+MD5,7d793037a0760186574b0282f2f435e7
+Filename,update_patch.exe
+Filename,credentials_backup.zip
+Email Address,info@loginportal.com
+Email Address,support@secureaccess.net
+IP,45.153.160.140
+IP,45.153.160.141
+IP,45.153.160.142
+Domain Name,accountupdate.com
+Domain Name,securemailaccess.net
+Domain Name,verifylogin.org
+SHA256,6f1ed002ab5595859014ebf0951522d9b0d00000000000000000000000000000
+SHA256,3c6e0b8a9c15224a8228b9a98ca1531d00000000000000000000000000000000
+MD5,900150983cd24fb0d6963f7d28e17f72
+MD5,0cc175b9c0f1b6a831c399e269772661
+Filename,login_form_update.docx
+IP,185.225.76.120
+IP,185.225.76.121
+IP,185.225.78.140
+IP,185.225.78.141
+IP,185.225.78.142
+Domain Name,secureloginupdate.com
+Domain Name,mailverifyaccess.net
+Domain Name,accountportal.org
+SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
+SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
+MD5,6c8349cc7260ae62e3b1396831a8398f
+MD5,34173cb38f07f89ddbebc2ac9128303f
+Filename,sep18_patch_update.exe
+Filename,login_form_restore.docx
+Email Address,support@secureloginupdate.com
+Email Address,admin@mailverifyaccess.net
+IP,185.225.76.122
+IP,185.225.77.130
+IP,185.225.77.131
+IP,185.225.77.132
+Domain Name,loginverifyaccess.com
+Domain Name,securemailportal.net
+Domain Name,accountupdate.org
+SHA256,7b8b965ad4bca0e41ab51de7b31363a100000000000000000000000000000000
+SHA256,9c4e0e5f4e8f2d3c1b2a3a4c5d6e7f8a00000000000000000000000000000000
+MD5,6512bd43d9caa6e02c990b0a82652dca
+MD5,c20ad4d76fe97759aa27a0c99bff6710
+Filename,sep17_patch_update.exe
+Filename,login_backup_form.docx
+Email Address,admin@loginverifyaccess.com
+Email Address,support@securemailportal.net
+Domain Name,loginupdateportal.com
+Domain Name,securemailverify.net
+Domain Name,accountaccess.org
+SHA256,9ae0ea9e3c9c6e1b9b6252c8395efdc1b00000000000000000000000000000000
+SHA256,1c383cd30b7c298ab50293adfecb7b1800000000000000000000000000000000
+MD5,45c48cce2e2d7fbdea1afc51c7c6ad26
+MD5,d3d9446802a44259755d38e6d163e820
+Filename,oct13_patch_update.exe
+Filename,login_form_backup.docx
+Email Address,support@loginupdateportal.com
+Email Address,admin@securemailverify.net
+IP,185.225.74.100
+IP,185.225.74.101
+IP,185.225.74.102
+IP,185.225.75.110
+IP,185.225.75.111
+IP,185.225.75.112
+Domain Name,secureloginportal.com
+Domain Name,mailupdateaccess.net
+Domain Name,verifyaccount.org
+SHA256,1f3870be274f6c49b3e31a0c6728957f00000000000000000000000000000000
+SHA256,3c59dc048e8850243be8079a5c74d07900000000000000000000000000000000
+MD5,8f14e45fceea167a5a36dedd4bea2543
+MD5,c9f0f895fb98ab9159f51fd0297e236d
+Filename,oct9_security_patch.exe
+Filename,account_login_form.docx
+Email Address,admin@secureloginportal.com
+Email Address,info@mailupdateaccess.net
+Domain Name,loginverify.com
+Domain Name,secureupdate.net
+Domain Name,mailaccess.org
+SHA256,2c1743a391305fbf367df8e4f069f9f9b00000000000000000000000000000000
+SHA256,8f14e45fceea167a5a36dedd4bea2543b00000000000000000000000000000000
+MD5,827ccb0eea8a706c4c34a16891f84e7b
+MD5,e1671797c52e15f763380b45e841ec32
+Filename,oct_patch_update.exe
+Filename,login_credentials.docx
+Email Address,support@loginverify.com
+Email Address,admin@secureupdate.net
+Filename,security_patch_oct.exe
+Email Address,admin@accountupdate.com
+Email Address,help@securemailaccess.net
+IP,185.141.25.170
+Domain Name,securelogin[.]online
+Domain Name,accountverify[.]site
+Domain Name,mailaccess[.]tech
+SHA256,3f8d9c6b2e7f4a1c9b3e2d8f5a6c7e8d9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c
+SHA256,7e9d8c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b1a0f9e8d
+MD5,9e107d9d372bb6826bd81d3542a419d6
+MD5,e4d909c290d0fb1ca068ffaddf22cbd0
+Filename,invoice_1025.pdf
+Filename,login_details.docx
+Email Address,support@securelogin.online
+Email Address,admin@accountverify.site
