@@ -1,543 +1,475 @@
-Type,Value
-Domain Name,accountaccess.org
-Domain Name,accountportal.org
-Domain Name,accountportalverify.org
-Domain Name,accountrestore.org
-Domain Name,accountrestore.org
-Domain Name,accountrestoreaccess.org
-Domain Name,accountrestoreportal.org
-Domain Name,accountrestoreportal.org
-Domain Name,accountrestoreportal.org
-Domain Name,accountrestoreupdate.org
-Domain Name,accountrestoreupdate.org
-Domain Name,accountrestoreverify.org
-Domain Name,accountrestoreverify.org
-Domain Name,accountupdate.com
-Domain Name,accountupdate.org
-Domain Name,accountupdateportal.org
-Domain Name,accountverify.org
-Domain Name,accountverify.site
-Domain Name,accountverifyportal.org
-Domain Name,adsemail.com
-Domain Name,adsmarks.com
-Domain Name,arcticwolf.com
-Domain Name,arstechnica.com
-Domain Name,bitnob.com
-Domain Name,bleepingcomputer.com
-Domain Name,blog.eclecticiq.com
-Domain Name,blog.lastpass.com
-Domain Name,blog.nviso.eu
-Domain Name,blog.talosintelligence.com
-Domain Name,blog.virustotal.com
-Domain Name,blogs.infoblox.com
-Domain Name,captchanom.top
-Domain Name,carbonblack.exe
-Domain Name,cargo.toml
-Domain Name,ccb.belgium.be
-Domain Name,cert.at
-Domain Name,cert.be
-Domain Name,certutil.exe
-Domain Name,checkme.dll
-Domain Name,chintangurjar.com
-Domain Name,chrome.exe
-Domain Name,cisa.gov
-Domain Name,cloud.google.com
-Domain Name,cmd.exe
-Domain Name,crates.io
-Domain Name,crypto.com
-Domain Name,cyber.gc.ca
-Domain Name,cyberscoop.com
-Domain Name,cybersecuritydive.com
-Domain Name,darkreading.com
-Domain Name,databreach.com
-Domain Name,databreaches.net
-Domain Name,destination.domain
-Domain Name,dirkjanm.io
-Domain Name,discord.com
-Domain Name,dropbox-fileshare.net
-Domain Name,dt1.automotosport.net
-Domain Name,explorer.exe
-Domain Name,feeds.fortinet.com
-Domain Name,firefox.exe
-Domain Name,gbhackers.com
-Domain Name,github.com
-Domain Name,gmail.com
-Domain Name,go.theregister.com
-Domain Name,googleprojectzero.blogspot.com
-Domain Name,govcert.gov.hk
-Domain Name,govcert.hk
-Domain Name,hackread.com
-Domain Name,helper.py
-Domain Name,helpx.adobe.com
-Domain Name,hkcert.org
-Domain Name,http.request.method
-Domain Name,iamnotarobot.dll
-Domain Name,infosecurity-magazine.com
-Domain Name,inspectguarantee.org
-Domain Name,intlspring.com
-Domain Name,is.fi
-Domain Name,jfrog.com
-Domain Name,koreajoongangdaily.joins.com
-Domain Name,krebsonsecurity.com
-Domain Name,labs.watchtowr.com
-Domain Name,login-verification.org
-Domain Name,loginaccessportal.com
-Domain Name,loginaccessupdate.com
-Domain Name,loginaccessverify.com
-Domain Name,loginportal.com
-Domain Name,loginrestoreaccess.com
-Domain Name,loginrestoreupdate.com
-Domain Name,loginupdateaccess.com
-Domain Name,loginupdateaccess.com
-Domain Name,loginupdateportal.com
-Domain Name,loginupdateportal.com
-Domain Name,loginupdateverify.com
-Domain Name,loginverify.com
-Domain Name,loginverifyaccess.com
-Domain Name,loginverifyaccess.com
-Domain Name,loginverifyaccess.com
-Domain Name,loginverifyaccess.com
-Domain Name,loginverifyrestore.com
-Domain Name,loginverifyupdate.com
-Domain Name,machinerie.dll
-Domain Name,mailaccess.org
-Domain Name,mailaccess.tech
-Domain Name,mailupdate.org
-Domain Name,mailupdateaccess.net
-Domain Name,mailverifyaccess.net
-Domain Name,mainnet.solana-rpc-pool.workers.dev
-Domain Name,malicious.your-domain.com
-Domain Name,malwarebytes.com
-Domain Name,msedge.exe
-Domain Name,msgreceivedalert.com
-Domain Name,msiexec.exe
-Domain Name,mssense.exe
-Domain Name,mysonicwall.com
-Domain Name,news.sophos.com
-Domain Name,node.exe
-Domain Name,npm.exe
-Domain Name,npmjs.com
-Domain Name,offenders...was
-Domain Name,officedocdrivecloudfile.com
-Domain Name,onedrive-backup.info
-Domain Name,owa-outlookaccess-login.us
-Domain Name,package-lock.json
-Domain Name,package.json
-Domain Name,pastebin.com
-Domain Name,pe.exports
-Domain Name,powershell.exe
-Domain Name,psexec.exe
-Domain Name,psexec.py
-Domain Name,redcanary.com
-Domain Name,reliaquest.com
-Domain Name,research.checkpoint.com
-Domain Name,reuters.com
-Domain Name,ria.ee
-Domain Name,rundll32.exe
-Domain Name,scworld.com
-Domain Name,sec.cloudapps.cisco.com
-Domain Name,secureaccess.net
-Domain Name,securelist.com
-Domain Name,securelogin.cloud
-Domain Name,securelogin.online
-Domain Name,secureloginportal.com
-Domain Name,secureloginupdate.com
-Domain Name,securemailaccess.net
-Domain Name,securemailaccess.net
-Domain Name,securemailaccessportal.net
-Domain Name,securemailportal.net
-Domain Name,securemailrestore.net
-Domain Name,securemailupdate.net
-Domain Name,securemailupdate.net
-Domain Name,securemailupdate.net
-Domain Name,securemailupdateaccess.net
-Domain Name,securemailupdateportal.net
-Domain Name,securemailupdateportal.net
-Domain Name,securemailverify.net
-Domain Name,securemailverify.net
-Domain Name,securemailverify.net
-Domain Name,securemailverifyaccess.net
-Domain Name,securemailverifyaccess.net
-Domain Name,securemailverifyupdate.net
-Domain Name,secureupdate.net
-Domain Name,securityaffairs.com
-Domain Name,securityboulevard.com
-Domain Name,securityweek.com
-Domain Name,socket.dev
-Domain Name,source.ip
-Domain Name,southprovesolutions.com
-Domain Name,staffvirtual.website
-Domain Name,svchost.exe
-Domain Name,system-healthadv.com
-Domain Name,teams.exe
-Domain Name,tenable.com
-Domain Name,th-dd-mon-yyyy.md
-Domain Name,thedfirreport.com
-Domain Name,thehackernews.com
-Domain Name,therecord.media
-Domain Name,theregister.com
-Domain Name,tools.cisco.com
-Domain Name,unit42.paloaltonetworks.com
-Domain Name,update-microsoft.com
-Domain Name,url.path
-Domain Name,verifyaccount.org
-Domain Name,verifylogin.org
-Domain Name,vgauthservice.exe
-Domain Name,vssadmin.exe
-Domain Name,vulnerabilities...allowed
-Domain Name,w3wp.exe
-Domain Name,webhook.site
-Domain Name,welivesecurity.com
-Domain Name,werfault.exe
-Domain Name,wermgr.exe
-Domain Name,wmiexec.exe
-Domain Name,wmiexec.py
-Domain Name,wscript.exe
-Domain Name,wsusservice.exe
-Domain Name,www.acronis.com
-Domain Name,www.bleepingcomputer.com
-Domain Name,www.cert.at
-Domain Name,www.cisa.gov
-Domain Name,www.cleafy.com
-Domain Name,www.crowdstrike.com
-Domain Name,www.cybersecuritydive.com
-Domain Name,www.darkreading.com
-Domain Name,www.databreachtoday.com
-Domain Name,www.epressi.com
-Domain Name,www.gdatasoftware.com
-Domain Name,www.govcert.gov.hk
-Domain Name,www.hkcert.org
-Domain Name,www.infosecurity-magazine.com
-Domain Name,www.is.fi
-Domain Name,www.kaspersky.com
-Domain Name,www.kyberturvallisuuskeskus.fi
-Domain Name,www.malwarebytes.com
-Domain Name,www.mcafee.com
-Domain Name,www.microsoft.com
-Domain Name,www.ncsc.gov.uk
-Domain Name,www.oracle.com
-Domain Name,www.paloaltonetworks.com
-Domain Name,www.proofpoint.com
-Domain Name,www.recordedfuture.com
-Domain Name,www.reddit.com
-Domain Name,www.reuters.com
-Domain Name,www.schneier.com
-Domain Name,www.scworld.com
-Domain Name,www.secretservice.gov
-Domain Name,www.securityweek.com
-Domain Name,www.tenable.com
-Domain Name,www.theregister.com
-Domain Name,www.trendmicro.com
-Domain Name,www.tripwire.com
-Domain Name,www.varonis.com
-Domain Name,www.welivesecurity.com
-Domain Name,www.zdnet.com
-Domain Name,www.zerodayinitiative.com
-Domain Name,www.zerosalarium.com
-Domain Name,www.zscaler.com
-Domain Name,yarn.lock
-Domain Name,yle.fi
-Domain Name,zensec.co.uk
-Domain Name,zerosalarium.com
-Email Address,admin@accountupdate.com
-Email Address,admin@accountverify.site
-Email Address,admin@loginaccessportal.com
-Email Address,admin@loginaccessupdate.com
-Email Address,admin@loginaccessverify.com
-Email Address,admin@loginrestoreaccess.com
-Email Address,admin@loginupdateportal.com
-Email Address,admin@loginupdateverify.com
-Email Address,admin@loginverifyaccess.com
-Email Address,admin@loginverifyaccess.com
-Email Address,admin@loginverifyaccess.com
-Email Address,admin@mailverifyaccess.net
-Email Address,admin@secureloginportal.com
-Email Address,admin@securemailaccessportal.net
-Email Address,admin@securemailrestore.net
-Email Address,admin@securemailupdateaccess.net
-Email Address,admin@securemailupdateportal.net
-Email Address,admin@securemailverify.net
-Email Address,admin@securemailverify.net
-Email Address,admin@securemailverifyaccess.net
-Email Address,admin@secureupdate.net
-Email Address,admin@update-microsoft.com
-Email Address,alerts@dropbox-fileshare.net
-Email Address,billordowiyi@gmail.com
-Email Address,help@securemailaccess.net
-Email Address,info@loginportal.com
-Email Address,info@mailupdateaccess.net
-Email Address,janedu0216@gmail.com
-Email Address,support@loginrestoreupdate.com
-Email Address,support@loginupdateaccess.com
-Email Address,support@loginupdateaccess.com
-Email Address,support@loginupdateportal.com
-Email Address,support@loginverify.com1
-Email Address,support@loginverifyaccess.com
-Email Address,support@loginverifyrestore.com
-Email Address,support@loginverifyupdate.com
-Email Address,support@secureaccess.net
-Email Address,support@securelogin.cloud
-Email Address,support@securelogin.online
-Email Address,support@secureloginupdate.com
-Email Address,support@securemailaccess.net
-Email Address,support@securemailportal.net
-Email Address,support@securemailupdate.net
-Email Address,support@securemailupdate.net
-Email Address,support@securemailupdate.net
-Email Address,support@securemailupdateportal.net
-Email Address,support@securemailverify.net
-Email Address,support@securemailverifyaccess.net
-Email Address,support@securemailverifyupdate.net
-Filename,account_login_form.docx
-Filename,carbonblack.exe
-Filename,certutil.exe
-Filename,checkme.dll
-Filename,chrome.exe
-Filename,cmd.exe
-Filename,credentials_backup.zip
-Filename,explorer.exe
-Filename,firefox.exe
-Filename,iamnotarobot.dll
-Filename,invoice_1025.pdf
-Filename,invoice_1026.pdf
-Filename,legit_app.exe
-Filename,login_backup_form.docx
-Filename,login_credentials.docx
-Filename,login_details.docx
-Filename,login_form_backup.docx
-Filename,login_form_recovery.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_restore.docx
-Filename,login_form_update.docx
-Filename,machinerie.dll
-Filename,msedge.exe
-Filename,msiexec.exe
-Filename,mssense.exe
-Filename,node.exe
-Filename,npm.exe
-Filename,oct13_patch_update.exe
-Filename,oct21_patch_update.exe
-Filename,oct22_patch_update.exe
-Filename,oct23_patch_update.exe
-Filename,oct26_patch_update.exe
-Filename,oct9_security_patch.exe
-Filename,oct_patch_update.exe
-Filename,or wmiexec.exe
-Filename,powershell.exe
-Filename,psexec.exe
-Filename,rundll32.exe
-Filename,security_patch_oct.exe
-Filename,sep17_patch_update.exe
-Filename,sep18_patch_update.exe
-Filename,sep19_patch_update.exe
-Filename,sep21_patch_update.exe
-Filename,sep22_patch_update.exe
-Filename,sep23_patch_update.exe
-Filename,sep24_patch_update.exe
-Filename,sep25_patch_update.exe
-Filename,sep26_patch_update.exe
-Filename,sep28_patch_update.exe
-Filename,sep28_patch_update.exe
-Filename,sep29_patch_update.exe
-Filename,svchost.exe
-Filename,teams.exe
-Filename,teams_installer.exe
-Filename,teams_setup.exe
-Filename,update_patch.exe
-Filename,update_patch.exe
-Filename,vgauthservice.exe
-Filename,vssadmin.exe
-Filename,w3wp.exe
-Filename,werfault.exe
-Filename,wermgr.exe
-Filename,wscript.exe
-Filename,wsusservice.exe
-IP,1.2.3.4
-IP,103.145.13.87
-IP,136.243.146.46
-IP,139.180.160.173
-IP,155.138.150.12
-IP,169.254.169.254
-IP,185.141.25.168
-IP,185.141.25.169
-IP,185.141.25.170
-IP,185.225.73.118
-IP,185.225.73.90
-IP,185.225.73.90
-IP,185.225.73.91
-IP,185.225.74.100
-IP,185.225.74.101
-IP,185.225.74.102
-IP,185.225.75.110
-IP,185.225.75.111
-IP,185.225.75.112
-IP,185.225.76.120
-IP,185.225.76.121
-IP,185.225.76.122
-IP,185.225.77.130
-IP,185.225.77.131
-IP,185.225.77.132
-IP,185.225.78.140
-IP,185.225.78.141
-IP,185.225.78.142
-IP,185.225.79.150
-IP,185.225.79.151
-IP,185.225.79.152
-IP,185.225.80.160
-IP,185.225.80.161
-IP,185.225.80.162
-IP,185.225.81.170
-IP,185.225.81.171
-IP,185.225.81.172
-IP,185.225.82.180
-IP,185.225.82.181
-IP,185.225.82.182
-IP,185.225.83.190
-IP,185.225.83.191
-IP,185.225.83.192
-IP,185.225.84.200
-IP,185.225.84.201
-IP,185.225.84.202
-IP,185.225.85.210
-IP,185.225.85.211
-IP,185.225.85.212
-IP,185.225.86.220
-IP,185.225.86.221
-IP,185.225.86.222
-IP,185.225.87.230
-IP,185.225.87.231
-IP,185.225.87.232
-IP,185.225.88.240
-IP,185.225.88.241
-IP,185.225.88.242
-IP,185.225.89.250
-IP,185.225.89.251
-IP,185.225.89.252
-IP,185.62.189.88
-IP,19.20.0.1
-IP,200.58.107.25
-IP,45.153.160.140
-IP,45.153.160.141
-IP,45.153.160.142
-IP,45.9.148.182
-IP,85.239.52.32
-IP,91.200.14.69
-IP,91.215.85.198
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,0cc175b9c0f1b6a831c399e269772661
-MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3
-MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3
-MD5,1c383cd30b7c298ab50293adfecb7b18
-MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
-MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
-MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
-MD5,327233d73236ca4d7c18ffd8f9924127
-MD5,34173cb38f07f89ddbebc2ac9128303f
-MD5,37693cfc748049e45d87b8c7d8b9aacd
-MD5,37693cfc748049e45d87b8c7d8b9aacd
-MD5,37693cfc748049e45d87b8c7d8b9aacd
-MD5,3918cace55342909c8309ec37d0207fd
-MD5,3c59dc048e8850243be8079a5c74d079
-MD5,3c59dc048e8850243be8079a5c74d079
-MD5,45c48cce2e2d7fbdea1afc51c7c6ad26
-MD5,4e732ced3463d06de0ca9a15b6153677
-MD5,5d41402abc4b2a76b9719d911017c592
-MD5,6512bd43d9caa6e02c990b0a82652dca
-MD5,6c8349cc7260ae62e3b1396831a8398f
-MD5,7d793037a0760186574b0282f2f435e7
-MD5,827ccb0eea8a706c4c34a16891f84e7b
-MD5,8e296a067a37563370ded05f5a3bf3ec
-MD5,8f14e45fceea167a5a36dedd4bea2543
-MD5,8f14e45fceea167a5a36dedd4bea2543
-MD5,900150983cd24fb0d6963f7d28e17f72
-MD5,9a092bbfc5325cbfca2f9807d074616a
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-MD5,9ae0ea9e3c9c6e1b9b6252c8395efdc1
-MD5,9e107d9d372bb6826bd81d3542a419d6
-MD5,c20ad4d76fe97759aa27a0c99bff6710
-MD5,c9f0f895fb98ab9159f51fd0297e236d
-MD5,d3d9446802a44259755d38e6d163e820
-MD5,e1671797c52e15f763380b45e841ec32
-MD5,e4d909c290d0fb1ca068ffaddf22cbd0
-SHA256,01fc5c5fd03b793437ed707233d067b330fb68a2de87e9d8607c6b75caca6356
-SHA256,03c7c0ace395d80182db07ae2c30f03400000000000000000000000000000000
-SHA256,137a6e6f09cb38905ff5c4ffe4b8967a45313d93bf19e03f8abe8238d589fb42
-SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000
-SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000
-SHA256,1c383cd30b7c298ab50293adfecb7b1800000000000000000000000000000000
-SHA256,1c8bfe8f801c0e1eaf2fcdf1800617c700000000000000000000000000000000
-SHA256,1f3870be274f6c49b3e31a0c6728957f00000000000000000000000000000000
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,2c1743a391305fbf367df8e4f069f9f9b00000000000000000000000000000000
-SHA256,2e74f6bd9bf73131d3213399ed2f669ec5f75392de69edf8ce8196cd70eb6aee
-SHA256,33fc67b0daaffd81493818df4d58112def65138143cec9bd385ef164bb4ac8ab
-SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
-SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
-SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
-SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000
-SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000
-SHA256,3b49904b68aedb6031318438ad2ff7be4bf9fd865339330495b177d5c4be69d1
-SHA256,3c59dc048e8850243be8079a5c74d07900000000000000000000000000000000
-SHA256,3c6e0b8a9c15224a8228b9a98ca1531d00000000000000000000000000000000
-SHA256,3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a
-SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
-SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
-SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
-SHA256,3f8d9c6b2e7f4a1c9b3e2d8f5a6c7e8d9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c
-SHA256,45c48cce2e2d7fbdea1afc51c7c6ad2600000000000000000000000000000000
-SHA256,4a7d1ed414474e4033ac29ccb8653d9b00000000000000000000000000000000
-SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
-SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
-SHA256,62ab5a28801d2d7d607e591b7b2a1e9ae0bfc83f9ceda8a998e5e397b58623a0
-SHA256,666944b19c707afaa05453909d395f979a267b28ff43d90d143cd36f6b74b53e
-SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000
-SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000
-SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000
-SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000
-SHA256,6f1ed002ab5595859014ebf0951522d9b0d00000000000000000000000000000
-SHA256,7b8b965ad4bca0e41ab51de7b31363a100000000000000000000000000000000
-SHA256,7e9d8c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b1a0f9e8d
-SHA256,7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e
-SHA256,86ffd411b42d8d06bdb294f48e79393adeea586c56c5c75c1a68ce6315932881
-SHA256,87138f63974a8ccbbf5840c31165f1a4bf92a954bacccfbf1e7e5525d750aa48
-SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
-SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
-SHA256,8f14e45fceea167a5a36dedd4bea254300000000000000000000000000000000
-SHA256,8f14e45fceea167a5a36dedd4bea2543b00000000000000000000000000000000
-SHA256,98f13708210194c475687be6106a6c9d00000000000000000000000000000000
-SHA256,9a1158154dfa42caddbd0694a4e9bdc800000000000000000000000000000000
-SHA256,9ae0ea9e3c9c6e1b9b6252c8395efdc1b00000000000000000000000000000000
-SHA256,9c1185a5c5e9fc54612808977ee8f548b2258d31
-SHA256,9c4e0e5f4e8f2d3c1b2a3a4c5d6e7f8a00000000000000000000000000000000
-SHA256,9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c
-SHA256,af912f6f4bea757de772d22f01dc853fc4d7ab228dc5f7b7eab2a93f64855fbe
-SHA256,b60100729de2f468caf686638ad513fe28ce61590d2b0d8db85af9edc5da98f9
-SHA256,c9f0f895fb98ab9159f51fd0297e236d00000000000000000000000000000000
-SHA256,ccac0311b3e3674282d87db9fb8a151c7b11405662159a46dda71039f2200a67
-SHA256,d221bf1318b8c768a6d824e79c9e87b488c1ae632b33848b638e6b2d4c76182b
-SHA256,d3d9446802a44259755d38e6d163e82000000000000000000000000000000000
-SHA256,e1ea0b557c3bda5c1332009628f37299766ac5886dda9aaf6bc902145c41fd10
+Type,Value,First Seen (UTC),Last Seen (UTC),Related Threat Actor/Campaign,Confidence,Source(s),Enrichment,Action,TTL/Review Date
+Domain Name,accountaccess.org,,,,,,,,
+Domain Name,accountportal.org,,,,,,,,
+Domain Name,accountportalverify.org,,,,,,,,
+Domain Name,accountrestore.org,,,,,,,,
+Domain Name,accountrestoreaccess.org,,,,,,,,
+Domain Name,accountrestoreportal.org,,,,,,,,
+Domain Name,accountrestoreupdate.org,,,,,,,,
+Domain Name,accountrestoreverify.org,,,,,,,,
+Domain Name,accountupdate.com,,,,,,,,
+Domain Name,accountupdate.org,,,,,,,,
+Domain Name,accountupdateportal.org,,,,,,,,
+Domain Name,accountverify.org,,,,,,,,
+Domain Name,accountverify.site,,,,,,,,
+Domain Name,accountverifyportal.org,,,,,,,,
+Domain Name,adsemail.com,Unknown,2025-09-22,Zloader,High,【<https://www.zscaler.com/blogs/security-research/technical-analysis-zloader-updates>】,HTTPS C2,Block,90 days
+Domain Name,adsmarks.com,Unknown,2025-09-22,Zloader,High,【<https://www.zscaler.com/blogs/security-research/technical-analysis-zloader-updates>】,HTTPS C2,Block,90 days
+Domain Name,arcticwolf.com,,,,,,,,
+Domain Name,arstechnica.com,,,,,,,,
+Domain Name,bitnob.com,,,,,,,,
+Domain Name,bleepingcomputer.com,,,,,,,,
+Domain Name,blog.eclecticiq.com,,,,,,,,
+Domain Name,blog.lastpass.com,,,,,,,,
+Domain Name,blog.nviso.eu,,,,,,,,
+Domain Name,blog.talosintelligence.com,,,,,,,,
+Domain Name,blog.virustotal.com,,,,,,,,
+Domain Name,blogs.infoblox.com,,,,,,,,
+Domain Name,captchanom.top,2025-09-24,2025-09-25,COLDRIVER,High,【[1](https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix)】,Hosts BAITSWITCH malware,Block,2025-12-25
+Domain Name,carbonblack.exe,,,,,,,,
+Domain Name,cargo.toml,,,,,,,,
+Domain Name,ccb.belgium.be,,,,,,,,
+Domain Name,cert.at,,,,,,,,
+Domain Name,cert.be,,,,,,,,
+Domain Name,certutil.exe,,,,,,,,
+Domain Name,checkme.dll,,,,,,,,
+Domain Name,chintangurjar.com,,,,,,,,
+Domain Name,chrome.exe,,,,,,,,
+Domain Name,cisa.gov,,,,,,,,
+Domain Name,cloud.google.com,,,,,,,,
+Domain Name,cmd.exe,,,,,,,,
+Domain Name,crates.io,,,,,,,,
+Domain Name,crypto.com,,,,,,,,
+Domain Name,cyber.gc.ca,,,,,,,,
+Domain Name,cyberscoop.com,,,,,,,,
+Domain Name,cybersecuritydive.com,,,,,,,,
+Domain Name,darkreading.com,,,,,,,,
+Domain Name,databreach.com,,,,,,,,
+Domain Name,databreaches.net,,,,,,,,
+Domain Name,destination.domain,,,,,,,,
+Domain Name,dirkjanm.io,,,,,,,,
+Domain Name,discord.com,,,,,,,,
+Domain Name,dropbox-fileshare.net,,,,,,,,
+Domain Name,dt1.automotosport.net,Unknown,2025-09-22,Zloader,High,【<https://www.zscaler.com/blogs/security-research/technical-analysis-zloader-updates>】,DNS C2,Block,90 days
+Domain Name,explorer.exe,,,,,,,,
+Domain Name,feeds.fortinet.com,,,,,,,,
+Domain Name,firefox.exe,,,,,,,,
+Domain Name,gbhackers.com,,,,,,,,
+Domain Name,github.com,,,,,,,,
+Domain Name,gmail.com,,,,,,,,
+Domain Name,go.theregister.com,,,,,,,,
+Domain Name,googleprojectzero.blogspot.com,,,,,,,,
+Domain Name,govcert.gov.hk,,,,,,,,
+Domain Name,govcert.hk,,,,,,,,
+Domain Name,hackread.com,,,,,,,,
+Domain Name,helper.py,,,,,,,,
+Domain Name,helpx.adobe.com,,,,,,,,
+Domain Name,hkcert.org,,,,,,,,
+Domain Name,http.request.method,,,,,,,,
+Domain Name,iamnotarobot.dll,,,,,,,,
+Domain Name,infosecurity-magazine.com,,,,,,,,
+Domain Name,inspectguarantee.org,May 2025,Current,COLDRIVER,High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,NOROBOT delivery domain,Block,2026-01-21
+Domain Name,intlspring.com,,,,,,,,
+Domain Name,is.fi,,,,,,,,
+Domain Name,jfrog.com,,,,,,,,
+Domain Name,koreajoongangdaily.joins.com,,,,,,,,
+Domain Name,krebsonsecurity.com,,,,,,,,
+Domain Name,labs.watchtowr.com,,,,,,,,
+Domain Name,login-verification.org,,,,,,,,
+Domain Name,loginaccessportal.com,,,,,,,,
+Domain Name,loginaccessupdate.com,,,,,,,,
+Domain Name,loginaccessverify.com,,,,,,,,
+Domain Name,loginportal.com,,,,,,,,
+Domain Name,loginrestoreaccess.com,,,,,,,,
+Domain Name,loginrestoreupdate.com,,,,,,,,
+Domain Name,loginupdateaccess.com,,,,,,,,
+Domain Name,loginupdateportal.com,,,,,,,,
+Domain Name,loginupdateverify.com,,,,,,,,
+Domain Name,loginverify.com,,,,,,,,
+Domain Name,loginverifyaccess.com,,,,,,,,
+Domain Name,loginverifyrestore.com,,,,,,,,
+Domain Name,loginverifyupdate.com,,,,,,,,
+Domain Name,machinerie.dll,,,,,,,,
+Domain Name,mailaccess.org,,,,,,,,
+Domain Name,mailaccess.tech,,,,,,,,
+Domain Name,mailupdate.org,,,,,,,,
+Domain Name,mailupdateaccess.net,,,,,,,,
+Domain Name,mailverifyaccess.net,,,,,,,,
+Domain Name,mainnet.solana-rpc-pool.workers.dev,Unknown,2025-09-26T02:00Z,Crypto Key Theft (C2),High,[https://socket.dev/blog/two-malicious-rust-crates-impersonate-popular-logger-to-steal-wallet-keys](https://socket.dev/blog/two-malicious-rust-crates-impersonate-popular-logger-to-steal-wallet-keys),Cloudflare Worker,Block,2025-12-26
+Domain Name,malicious.your-domain.com,,,,,,,,
+Domain Name,malwarebytes.com,,,,,,,,
+Domain Name,msedge.exe,,,,,,,,
+Domain Name,msgreceivedalert.com,Unknown,2025-09-22,RaccoonO365,High,【<https://securityboulevard.com/2025/09/microsoft-dcus-takedown-of-raccoono365/>】,Phishing domain,Block,90 days
+Domain Name,msiexec.exe,,,,,,,,
+Domain Name,mssense.exe,,,,,,,,
+Domain Name,mysonicwall.com,,,,,,,,
+Domain Name,news.sophos.com,,,,,,,,
+Domain Name,node.exe,,,,,,,,
+Domain Name,npm.exe,,,,,,,,
+Domain Name,npmjs.com,,,,,,,,
+Domain Name,offenders...was,,,,,,,,
+Domain Name,officedocdrivecloudfile.com,Unknown,2025-09-22,RaccoonO365,High,【<https://securityboulevard.com/2025/09/microsoft-dcus-takedown-of-raccoono365/>】,Phishing domain,Block,90 days
+Domain Name,onedrive-backup.info,,,,,,,,
+Domain Name,owa-outlookaccess-login.us,2022-08-08,2025-09-22,RaccoonO365,High,【<https://securityboulevard.com/2025/09/microsoft-dcus-takedown-of-raccoono365/>】,Phishing domain,Block,90 days
+Domain Name,package-lock.json,,,,,,,,
+Domain Name,package.json,,,,,,,,
+Domain Name,pastebin.com,,,,,,,,
+Domain Name,pe.exports,,,,,,,,
+Domain Name,powershell.exe,,,,,,,,
+Domain Name,psexec.exe,,,,,,,,
+Domain Name,psexec.py,,,,,,,,
+Domain Name,redcanary.com,,,,,,,,
+Domain Name,reliaquest.com,,,,,,,,
+Domain Name,research.checkpoint.com,,,,,,,,
+Domain Name,reuters.com,,,,,,,,
+Domain Name,ria.ee,,,,,,,,
+Domain Name,rundll32.exe,,,,,,,,
+Domain Name,scworld.com,,,,,,,,
+Domain Name,sec.cloudapps.cisco.com,,,,,,,,
+Domain Name,secureaccess.net,,,,,,,,
+Domain Name,securelist.com,,,,,,,,
+Domain Name,securelogin.cloud,,,,,,,,
+Domain Name,securelogin.online,,,,,,,,
+Domain Name,secureloginportal.com,,,,,,,,
+Domain Name,secureloginupdate.com,,,,,,,,
+Domain Name,securemailaccess.net,,,,,,,,
+Domain Name,securemailaccessportal.net,,,,,,,,
+Domain Name,securemailportal.net,,,,,,,,
+Domain Name,securemailrestore.net,,,,,,,,
+Domain Name,securemailupdate.net,,,,,,,,
+Domain Name,securemailupdateaccess.net,,,,,,,,
+Domain Name,securemailupdateportal.net,,,,,,,,
+Domain Name,securemailverify.net,,,,,,,,
+Domain Name,securemailverifyaccess.net,,,,,,,,
+Domain Name,securemailverifyupdate.net,,,,,,,,
+Domain Name,secureupdate.net,,,,,,,,
+Domain Name,securityaffairs.com,,,,,,,,
+Domain Name,securityboulevard.com,,,,,,,,
+Domain Name,securityweek.com,,,,,,,,
+Domain Name,socket.dev,,,,,,,,
+Domain Name,source.ip,,,,,,,,
+Domain Name,southprovesolutions.com,2025-09-24,2025-09-25,COLDRIVER,High,【[1](https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix)】,Command and Control (C2) server,Block,2025-12-25
+Domain Name,staffvirtual.website,Unknown,2025-10-23,UNC6229,High,<https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/>,Fake job posting website.,Block,2026-04-23
+Domain Name,svchost.exe,,,,,,,,
+Domain Name,system-healthadv.com,May 2025,Current,COLDRIVER,High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,YESROBOT C2,Block,2026-01-21
+Domain Name,teams.exe,,,,,,,,
+Domain Name,tenable.com,,,,,,,,
+Domain Name,th-dd-mon-yyyy.md,,,,,,,,
+Domain Name,thedfirreport.com,,,,,,,,
+Domain Name,thehackernews.com,,,,,,,,
+Domain Name,therecord.media,,,,,,,,
+Domain Name,theregister.com,,,,,,,,
+Domain Name,tools.cisco.com,,,,,,,,
+Domain Name,unit42.paloaltonetworks.com,,,,,,,,
+Domain Name,update-microsoft.com,,,,,,,,
+Domain Name,url.path,,,,,,,,
+Domain Name,verifyaccount.org,,,,,,,,
+Domain Name,verifylogin.org,,,,,,,,
+Domain Name,vgauthservice.exe,,,,,,,,
+Domain Name,vssadmin.exe,,,,,,,,
+Domain Name,vulnerabilities...allowed,,,,,,,,
+Domain Name,w3wp.exe,,,,,,,,
+Domain Name,webhook.site,2025-09-23,2025-09-24,Shai-Hulud (npm worm),Medium,【[1](https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem)】,Legitimate service used for exfiltration.,"Monitor, Block Outbound",2025-10-24
+Domain Name,welivesecurity.com,,,,,,,,
+Domain Name,werfault.exe,,,,,,,,
+Domain Name,wermgr.exe,,,,,,,,
+Domain Name,wmiexec.exe,,,,,,,,
+Domain Name,wmiexec.py,,,,,,,,
+Domain Name,wscript.exe,,,,,,,,
+Domain Name,wsusservice.exe,,,,,,,,
+Domain Name,www.acronis.com,,,,,,,,
+Domain Name,www.bleepingcomputer.com,,,,,,,,
+Domain Name,www.cert.at,,,,,,,,
+Domain Name,www.cisa.gov,,,,,,,,
+Domain Name,www.cleafy.com,,,,,,,,
+Domain Name,www.crowdstrike.com,,,,,,,,
+Domain Name,www.cybersecuritydive.com,,,,,,,,
+Domain Name,www.darkreading.com,,,,,,,,
+Domain Name,www.databreachtoday.com,,,,,,,,
+Domain Name,www.epressi.com,,,,,,,,
+Domain Name,www.gdatasoftware.com,,,,,,,,
+Domain Name,www.govcert.gov.hk,,,,,,,,
+Domain Name,www.hkcert.org,,,,,,,,
+Domain Name,www.infosecurity-magazine.com,,,,,,,,
+Domain Name,www.is.fi,,,,,,,,
+Domain Name,www.kaspersky.com,,,,,,,,
+Domain Name,www.kyberturvallisuuskeskus.fi,,,,,,,,
+Domain Name,www.malwarebytes.com,,,,,,,,
+Domain Name,www.mcafee.com,,,,,,,,
+Domain Name,www.microsoft.com,,,,,,,,
+Domain Name,www.ncsc.gov.uk,,,,,,,,
+Domain Name,www.oracle.com,,,,,,,,
+Domain Name,www.paloaltonetworks.com,,,,,,,,
+Domain Name,www.proofpoint.com,,,,,,,,
+Domain Name,www.recordedfuture.com,,,,,,,,
+Domain Name,www.reddit.com,,,,,,,,
+Domain Name,www.reuters.com,,,,,,,,
+Domain Name,www.schneier.com,,,,,,,,
+Domain Name,www.scworld.com,,,,,,,,
+Domain Name,www.secretservice.gov,,,,,,,,
+Domain Name,www.securityweek.com,,,,,,,,
+Domain Name,www.tenable.com,,,,,,,,
+Domain Name,www.theregister.com,,,,,,,,
+Domain Name,www.trendmicro.com,,,,,,,,
+Domain Name,www.tripwire.com,,,,,,,,
+Domain Name,www.varonis.com,,,,,,,,
+Domain Name,www.welivesecurity.com,,,,,,,,
+Domain Name,www.zdnet.com,,,,,,,,
+Domain Name,www.zerodayinitiative.com,,,,,,,,
+Domain Name,www.zerosalarium.com,,,,,,,,
+Domain Name,www.zscaler.com,,,,,,,,
+Domain Name,yarn.lock,,,,,,,,
+Domain Name,yle.fi,,,,,,,,
+Domain Name,zensec.co.uk,,,,,,,,
+Domain Name,zerosalarium.com,,,,,,,,
+Email Address,admin@accountupdate.com,,,,,,,,
+Email Address,admin@accountverify.site,,,,,,,,
+Email Address,admin@loginaccessportal.com,,,,,,,,
+Email Address,admin@loginaccessupdate.com,,,,,,,,
+Email Address,admin@loginaccessverify.com,,,,,,,,
+Email Address,admin@loginrestoreaccess.com,,,,,,,,
+Email Address,admin@loginupdateportal.com,,,,,,,,
+Email Address,admin@loginupdateverify.com,,,,,,,,
+Email Address,admin@loginverifyaccess.com,,,,,,,,
+Email Address,admin@mailverifyaccess.net,,,,,,,,
+Email Address,admin@secureloginportal.com,,,,,,,,
+Email Address,admin@securemailaccessportal.net,,,,,,,,
+Email Address,admin@securemailrestore.net,,,,,,,,
+Email Address,admin@securemailupdateaccess.net,,,,,,,,
+Email Address,admin@securemailupdateportal.net,,,,,,,,
+Email Address,admin@securemailverify.net,,,,,,,,
+Email Address,admin@securemailverifyaccess.net,,,,,,,,
+Email Address,admin@secureupdate.net,,,,,,,,
+Email Address,admin@update-microsoft.com,,,,,,,,
+Email Address,alerts@dropbox-fileshare.net,,,,,,,,
+Email Address,billordowiyi@gmail.com,,,,,,,,
+Email Address,help@securemailaccess.net,,,,,,,,
+Email Address,info@loginportal.com,,,,,,,,
+Email Address,info@mailupdateaccess.net,,,,,,,,
+Email Address,janedu0216@gmail.com,,,,,,,,
+Email Address,support@loginrestoreupdate.com,,,,,,,,
+Email Address,support@loginupdateaccess.com,,,,,,,,
+Email Address,support@loginupdateportal.com,,,,,,,,
+Email Address,support@loginverify.com1,,,,,,,,
+Email Address,support@loginverifyaccess.com,,,,,,,,
+Email Address,support@loginverifyrestore.com,,,,,,,,
+Email Address,support@loginverifyupdate.com,,,,,,,,
+Email Address,support@secureaccess.net,,,,,,,,
+Email Address,support@securelogin.cloud,,,,,,,,
+Email Address,support@securelogin.online,,,,,,,,
+Email Address,support@secureloginupdate.com,,,,,,,,
+Email Address,support@securemailaccess.net,,,,,,,,
+Email Address,support@securemailportal.net,,,,,,,,
+Email Address,support@securemailupdate.net,,,,,,,,
+Email Address,support@securemailupdateportal.net,,,,,,,,
+Email Address,support@securemailverify.net,,,,,,,,
+Email Address,support@securemailverifyaccess.net,,,,,,,,
+Email Address,support@securemailverifyupdate.net,,,,,,,,
+Filename,account_login_form.docx,,,,,,,,
+Filename,carbonblack.exe,,,,,,,,
+Filename,certutil.exe,,,,,,,,
+Filename,checkme.dll,,,,,,,,
+Filename,chrome.exe,,,,,,,,
+Filename,cmd.exe,,,,,,,,
+Filename,credentials_backup.zip,,,,,,,,
+Filename,explorer.exe,,,,,,,,
+Filename,firefox.exe,,,,,,,,
+Filename,iamnotarobot.dll,,,,,,,,
+Filename,invoice_1025.pdf,,,,,,,,
+Filename,invoice_1026.pdf,,,,,,,,
+Filename,legit_app.exe,,,,,,,,
+Filename,login_backup_form.docx,,,,,,,,
+Filename,login_credentials.docx,,,,,,,,
+Filename,login_details.docx,,,,,,,,
+Filename,login_form_backup.docx,,,,,,,,
+Filename,login_form_recovery.docx,,,,,,,,
+Filename,login_form_restore.docx,,,,,,,,
+Filename,login_form_update.docx,,,,,,,,
+Filename,machinerie.dll,,,,,,,,
+Filename,msedge.exe,,,,,,,,
+Filename,msiexec.exe,,,,,,,,
+Filename,mssense.exe,,,,,,,,
+Filename,node.exe,,,,,,,,
+Filename,npm.exe,,,,,,,,
+Filename,oct13_patch_update.exe,,,,,,,,
+Filename,oct21_patch_update.exe,,,,,,,,
+Filename,oct22_patch_update.exe,,,,,,,,
+Filename,oct23_patch_update.exe,,,,,,,,
+Filename,oct26_patch_update.exe,,,,,,,,
+Filename,oct9_security_patch.exe,,,,,,,,
+Filename,oct_patch_update.exe,,,,,,,,
+Filename,or wmiexec.exe,,,,,,,,
+Filename,powershell.exe,,,,,,,,
+Filename,psexec.exe,,,,,,,,
+Filename,rundll32.exe,,,,,,,,
+Filename,security_patch_oct.exe,,,,,,,,
+Filename,sep17_patch_update.exe,,,,,,,,
+Filename,sep18_patch_update.exe,,,,,,,,
+Filename,sep19_patch_update.exe,,,,,,,,
+Filename,sep21_patch_update.exe,,,,,,,,
+Filename,sep22_patch_update.exe,,,,,,,,
+Filename,sep23_patch_update.exe,,,,,,,,
+Filename,sep24_patch_update.exe,,,,,,,,
+Filename,sep25_patch_update.exe,,,,,,,,
+Filename,sep26_patch_update.exe,,,,,,,,
+Filename,sep28_patch_update.exe,,,,,,,,
+Filename,sep29_patch_update.exe,,,,,,,,
+Filename,svchost.exe,,,,,,,,
+Filename,teams.exe,,,,,,,,
+Filename,teams_installer.exe,,,,,,,,
+Filename,teams_setup.exe,,,,,,,,
+Filename,update_patch.exe,,,,,,,,
+Filename,vgauthservice.exe,,,,,,,,
+Filename,vssadmin.exe,,,,,,,,
+Filename,w3wp.exe,,,,,,,,
+Filename,werfault.exe,,,,,,,,
+Filename,wermgr.exe,,,,,,,,
+Filename,wscript.exe,,,,,,,,
+Filename,wsusservice.exe,,,,,,,,
+IP,1.2.3.4,,,,,,,,
+IP,103.145.13.87,,,,,,,,
+IP,136.243.146.46,,,,,,,,
+IP,139.180.160.173,,,,,,,,
+IP,155.138.150.12,,,,,,,,
+IP,169.254.169.254,,,,,,,,
+IP,185.141.25.168,,,,,,,,
+IP,185.141.25.169,,,,,,,,
+IP,185.141.25.170,,,,,,,,
+IP,185.225.73.118,,,,,,,,
+IP,185.225.73.90,,,,,,,,
+IP,185.225.73.91,,,,,,,,
+IP,185.225.74.100,,,,,,,,
+IP,185.225.74.101,,,,,,,,
+IP,185.225.74.102,,,,,,,,
+IP,185.225.75.110,,,,,,,,
+IP,185.225.75.111,,,,,,,,
+IP,185.225.75.112,,,,,,,,
+IP,185.225.76.120,,,,,,,,
+IP,185.225.76.121,,,,,,,,
+IP,185.225.76.122,,,,,,,,
+IP,185.225.77.130,,,,,,,,
+IP,185.225.77.131,,,,,,,,
+IP,185.225.77.132,,,,,,,,
+IP,185.225.78.140,,,,,,,,
+IP,185.225.78.141,,,,,,,,
+IP,185.225.78.142,,,,,,,,
+IP,185.225.79.150,,,,,,,,
+IP,185.225.79.151,,,,,,,,
+IP,185.225.79.152,,,,,,,,
+IP,185.225.80.160,,,,,,,,
+IP,185.225.80.161,,,,,,,,
+IP,185.225.80.162,,,,,,,,
+IP,185.225.81.170,,,,,,,,
+IP,185.225.81.171,,,,,,,,
+IP,185.225.81.172,,,,,,,,
+IP,185.225.82.180,,,,,,,,
+IP,185.225.82.181,,,,,,,,
+IP,185.225.82.182,,,,,,,,
+IP,185.225.83.190,,,,,,,,
+IP,185.225.83.191,,,,,,,,
+IP,185.225.83.192,,,,,,,,
+IP,185.225.84.200,,,,,,,,
+IP,185.225.84.201,,,,,,,,
+IP,185.225.84.202,,,,,,,,
+IP,185.225.85.210,,,,,,,,
+IP,185.225.85.211,,,,,,,,
+IP,185.225.85.212,,,,,,,,
+IP,185.225.86.220,,,,,,,,
+IP,185.225.86.221,,,,,,,,
+IP,185.225.86.222,,,,,,,,
+IP,185.225.87.230,,,,,,,,
+IP,185.225.87.231,,,,,,,,
+IP,185.225.87.232,,,,,,,,
+IP,185.225.88.240,,,,,,,,
+IP,185.225.88.241,,,,,,,,
+IP,185.225.88.242,,,,,,,,
+IP,185.225.89.250,,,,,,,,
+IP,185.225.89.251,,,,,,,,
+IP,185.225.89.252,,,,,,,,
+IP,185.62.189.88,,,,,,,,
+IP,19.20.0.1,,,,,,,,
+IP,200.58.107.25,,,,,,,,
+IP,45.153.160.140,,,,,,,,
+IP,45.153.160.141,,,,,,,,
+IP,45.153.160.142,,,,,,,,
+IP,45.9.148.182,,,,,,,,
+IP,85.239.52.32,May 2025,Current,COLDRIVER,High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,"ASN: AS48666, TimeWeb Ltd., Russia",Block,2026-01-21
+IP,91.200.14.69,,,,,,,,
+IP,91.215.85.198,,,,,,,,
+MD5,03c7c0ace395d80182db07ae2c30f034,,,,,,,,
+MD5,0cc175b9c0f1b6a831c399e269772661,,,,,,,,
+MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3,,,,,,,,
+MD5,1c383cd30b7c298ab50293adfecb7b18,,,,,,,,
+MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7,,,,,,,,
+MD5,327233d73236ca4d7c18ffd8f9924127,,,,,,,,
+MD5,34173cb38f07f89ddbebc2ac9128303f,,,,,,,,
+MD5,37693cfc748049e45d87b8c7d8b9aacd,,,,,,,,
+MD5,3918cace55342909c8309ec37d0207fd,,,,,,,,
+MD5,3c59dc048e8850243be8079a5c74d079,,,,,,,,
+MD5,45c48cce2e2d7fbdea1afc51c7c6ad26,,,,,,,,
+MD5,4e732ced3463d06de0ca9a15b6153677,,,,,,,,
+MD5,5d41402abc4b2a76b9719d911017c592,,,,,,,,
+MD5,6512bd43d9caa6e02c990b0a82652dca,,,,,,,,
+MD5,6c8349cc7260ae62e3b1396831a8398f,,,,,,,,
+MD5,7d793037a0760186574b0282f2f435e7,,,,,,,,
+MD5,827ccb0eea8a706c4c34a16891f84e7b,,,,,,,,
+MD5,8e296a067a37563370ded05f5a3bf3ec,,,,,,,,
+MD5,8f14e45fceea167a5a36dedd4bea2543,,,,,,,,
+MD5,900150983cd24fb0d6963f7d28e17f72,,,,,,,,
+MD5,9a092bbfc5325cbfca2f9807d074616a,,,,,,,,
+MD5,9a1158154dfa42caddbd0694a4e9bdc8,,,,,,,,
+MD5,9ae0ea9e3c9c6e1b9b6252c8395efdc1,,,,,,,,
+MD5,9e107d9d372bb6826bd81d3542a419d6,,,,,,,,
+MD5,c20ad4d76fe97759aa27a0c99bff6710,,,,,,,,
+MD5,c9f0f895fb98ab9159f51fd0297e236d,,,,,,,,
+MD5,d3d9446802a44259755d38e6d163e820,,,,,,,,
+MD5,e1671797c52e15f763380b45e841ec32,,,,,,,,
+MD5,e4d909c290d0fb1ca068ffaddf22cbd0,,,,,,,,
+SHA256,01fc5c5fd03b793437ed707233d067b330fb68a2de87e9d8607c6b75caca6356,Unknown,2025-09-22,Zloader,High,【<https://www.zscaler.com/blogs/security-research/technical-analysis-zloader-updates>】,Malware component,Block,180 days
+SHA256,03c7c0ace395d80182db07ae2c30f03400000000000000000000000000000000,,,,,,,,
+SHA256,137a6e6f09cb38905ff5c4ffe4b8967a45313d93bf19e03f8abe8238d589fb42,Unknown,2025-10-23,UNC6229,High,<https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/>,Malware payload.,Block,2026-04-23
+SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000,,,,,,,,
+SHA256,1c383cd30b7c298ab50293adfecb7b1800000000000000000000000000000000,,,,,,,,
+SHA256,1c8bfe8f801c0e1eaf2fcdf1800617c700000000000000000000000000000000,,,,,,,,
+SHA256,1f3870be274f6c49b3e31a0c6728957f00000000000000000000000000000000,,,,,,,,
+SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000,,,,,,,,
+SHA256,2c1743a391305fbf367df8e4f069f9f9b00000000000000000000000000000000,,,,,,,,
+SHA256,2e74f6bd9bf73131d3213399ed2f669ec5f75392de69edf8ce8196cd70eb6aee,May 2025,Current,COLDRIVER (NOROBOT),High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,`iamnotarobot.dll`,Block,Permanent
+SHA256,33fc67b0daaffd81493818df4d58112def65138143cec9bd385ef164bb4ac8ab,Unknown,2025-10-23,UNC6229,High,<https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/>,Malware payload.,Block,2026-04-23
+SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000,,,,,,,,
+SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000,,,,,,,,
+SHA256,3b49904b68aedb6031318438ad2ff7be4bf9fd865339330495b177d5c4be69d1,Jun 2025,Current,COLDRIVER (NOROBOT),High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,`checkme.dll`,Block,Permanent
+SHA256,3c59dc048e8850243be8079a5c74d07900000000000000000000000000000000,,,,,,,,
+SHA256,3c6e0b8a9c15224a8228b9a98ca1531d00000000000000000000000000000000,,,,,,,,
+SHA256,3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a,,,,,,,,
+SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000,,,,,,,,
+SHA256,3f8d9c6b2e7f4a1c9b3e2d8f5a6c7e8d9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c,,,,,,,,
+SHA256,45c48cce2e2d7fbdea1afc51c7c6ad2600000000000000000000000000000000,,,,,,,,
+SHA256,4a7d1ed414474e4033ac29ccb8653d9b00000000000000000000000000000000,,,,,,,,
+SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000,,,,,,,,
+SHA256,62ab5a28801d2d7d607e591b7b2a1e9ae0bfc83f9ceda8a998e5e397b58623a0,2025-09-24,2025-09-25,COLDRIVER (Stager PS1),High,【[1](https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix)】,Malware File Hash,Block,2026-09-25
+SHA256,666944b19c707afaa05453909d395f979a267b28ff43d90d143cd36f6b74b53e,,,,,,,,
+SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000,,,,,,,,
+SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000,,,,,,,,
+SHA256,6f1ed002ab5595859014ebf0951522d9b0d00000000000000000000000000000,,,,,,,,
+SHA256,7b8b965ad4bca0e41ab51de7b31363a100000000000000000000000000000000,,,,,,,,
+SHA256,7e9d8c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b1a0f9e8d,,,,,,,,
+SHA256,7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e,,,,,,,,
+SHA256,86ffd411b42d8d06bdb294f48e79393adeea586c56c5c75c1a68ce6315932881,Unknown,2025-09-22,Zloader,High,【<https://www.zscaler.com/blogs/security-research/technical-analysis-zloader-updates>】,Malware component,Block,180 days
+SHA256,87138f63974a8ccbbf5840c31165f1a4bf92a954bacccfbf1e7e5525d750aa48,2025-09-24,2025-09-25,COLDRIVER (BAITSWITCH DLL),High,【[1](https://www.zscaler.com/blogs/security-research/coldriver-updates-arsenal-baitswitch-and-simplefix)】,Malware File Hash,Block,2026-09-25
+SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000,,,,,,,,
+SHA256,8f14e45fceea167a5a36dedd4bea254300000000000000000000000000000000,,,,,,,,
+SHA256,8f14e45fceea167a5a36dedd4bea2543b00000000000000000000000000000000,,,,,,,,
+SHA256,98f13708210194c475687be6106a6c9d00000000000000000000000000000000,,,,,,,,
+SHA256,9a1158154dfa42caddbd0694a4e9bdc800000000000000000000000000000000,,,,,,,,
+SHA256,9ae0ea9e3c9c6e1b9b6252c8395efdc1b00000000000000000000000000000000,,,,,,,,
+SHA256,9c1185a5c5e9fc54612808977ee8f548b2258d31,,,,,,,,
+SHA256,9c4e0e5f4e8f2d3c1b2a3a4c5d6e7f8a00000000000000000000000000000000,,,,,,,,
+SHA256,9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c,,,,,,,,
+SHA256,af912f6f4bea757de772d22f01dc853fc4d7ab228dc5f7b7eab2a93f64855fbe,2025-09-24,2025-09-24,YiBackdoor,High,【[1](https://www.zscaler.com/blogs/security-research/yibackdoor-new-malware-family-links-icedid-and-latrodectus)】,Malware Sample,"Block, Hunt",2026-09-24
+SHA256,b60100729de2f468caf686638ad513fe28ce61590d2b0d8db85af9edc5da98f9,Jun 2025,Current,COLDRIVER (MAYBEROBOT),High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,Obfuscated PowerShell backdoor,Block,Permanent
+SHA256,c9f0f895fb98ab9159f51fd0297e236d00000000000000000000000000000000,,,,,,,,
+SHA256,ccac0311b3e3674282d87db9fb8a151c7b11405662159a46dda71039f2200a67,,,,,,,,
+SHA256,d221bf1318b8c768a6d824e79c9e87b488c1ae632b33848b638e6b2d4c76182b,,,,,,,,
+SHA256,d3d9446802a44259755d38e6d163e82000000000000000000000000000000000,,,,,,,,
+SHA256,e1ea0b557c3bda5c1332009628f37299766ac5886dda9aaf6bc902145c41fd10,Unknown,2025-10-23,UNC6229,High,<https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/>,Malware payload.,Block,2026-04-23
