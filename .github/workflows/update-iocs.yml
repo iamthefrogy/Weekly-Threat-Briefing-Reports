@@ -42,7 +42,7 @@ jobs:
       - name: Run IOC extractor
         run: |
           # If your script needs arguments, add them here. Otherwise it can just scan your repo.
-          python extract_iocs.py
+          python scripts/extract_iocs.py
 
       - name: Commit changes (if IOCs.csv updated)
         run: |
