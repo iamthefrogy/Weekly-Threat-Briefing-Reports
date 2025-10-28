@@ -1,326 +1,821 @@
 Type,Value
-Domain Name,securelogin[.]cloud
-Domain Name,update-microsoft[.]com
-Domain Name,dropbox-fileshare[.]net
-Domain Name,login-verification[.]org
-Domain Name,onedrive-backup[.]info
-IP,185.225.82.180
-IP,185.225.82.181
-IP,185.225.82.182
-Domain Name,loginrestoreupdate.com
-Domain Name,securemailverifyaccess.net
-Domain Name,accountupdateportal.org
-SHA256,03c7c0ace395d80182db07ae2c30f03400000000000000000000000000000000
-SHA256,9a1158154dfa42caddbd0694a4e9bdc800000000000000000000000000000000
-MD5,8f14e45fceea167a5a36dedd4bea2543
-MD5,c9f0f895fb98ab9159f51fd0297e236d
-IP,185.225.83.190
-IP,185.225.83.191
-IP,185.225.83.192
-Domain Name,loginupdateverify.com
-Domain Name,securemailaccess.net
-IP,185.225.87.230
-IP,185.225.87.231
-IP,185.225.87.232
-Domain Name,loginupdateportal.com
-Domain Name,securemailverifyaccess.net
-IP,185.225.88.240
-IP,185.225.91.270
-IP,185.225.91.271
-IP,185.225.91.272
-Domain Name,loginupdateaccess.com
-Domain Name,securemailverify.net
-Domain Name,accountrestore.org
-SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000
-SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000
-MD5,3c59dc048e8850243be8079a5c74d079
-MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3
-Filename,sep29_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@loginupdateaccess.com
-Email Address,admin@securemailverify.net
-IP,185.225.89.250
-IP,185.225.89.251
-IP,185.225.90.260
-IP,185.225.90.261
-IP,185.225.90.262
-Domain Name,loginverifyaccess.com
-Domain Name,securemailupdate.net
-Domain Name,accountrestoreportal.org
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
-MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
-MD5,37693cfc748049e45d87b8c7d8b9aacd
-Filename,sep28_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,admin@loginverifyaccess.com
-Email Address,support@securemailupdate.net
-IP,185.225.89.252
-Domain Name,loginaccessverify.com
-Domain Name,securemailupdateportal.net
-Domain Name,accountrestoreupdate.org
-SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000
-SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-Filename,sep26_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,admin@loginaccessverify.com
-Email Address,support@securemailupdateportal.net
-IP,185.225.88.241
-IP,185.225.88.242
-Domain Name,loginverifyupdate.com
-Domain Name,securemailaccessportal.net
-Domain Name,accountrestoreaccess.org
-SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
-SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-Filename,oct26_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@loginverifyupdate.com
-Email Address,admin@securemailaccessportal.net
-Domain Name,accountrestoreverify.org
-SHA256,1c8bfe8f801c0e1eaf2fcdf1800617c700000000000000000000000000000000
-SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-Filename,sep25_patch_update.exe
-Filename,login_form_restore.docx
-IP,185.225.90.260
-IP,185.225.90.261
-IP,185.225.90.262
-Domain Name,loginverifyaccess.com
-Domain Name,securemailupdate.net
-Domain Name,accountrestoreportal.org
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
-MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
-MD5,37693cfc748049e45d87b8c7d8b9aacd
-Filename,sep28_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,admin@loginverifyaccess.com
-Email Address,support@securemailupdate.net
-Email Address,admin@loginupdateportal.com
-Email Address,support@securemailverifyaccess.net
-Domain Name,accountrestoreportal.org
-IP,185.225.84.200
-IP,185.225.85.210
-IP,185.225.85.211
-IP,185.225.86.220
-IP,185.225.86.221
-IP,185.225.86.222
-Domain Name,loginverifyaccess.com
-Domain Name,securemailupdateportal.net
-Domain Name,accountrestoreupdate.org
-SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000
-SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-Filename,sep24_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@loginverifyaccess.com
-Email Address,admin@securemailupdateportal.net
-IP,185.225.85.212
-Domain Name,loginaccessportal.com
-Domain Name,securemailverifyupdate.net
-Domain Name,accountrestoreverify.org
-SHA256,45c48cce2e2d7fbdea1afc51c7c6ad2600000000000000000000000000000000
-SHA256,d3d9446802a44259755d38e6d163e82000000000000000000000000000000000
-MD5,8e296a067a37563370ded05f5a3bf3ec
-MD5,4e732ced3463d06de0ca9a15b6153677
-Filename,sep23_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,admin@loginaccessportal.com
-Email Address,support@securemailverifyupdate.net
-IP,185.225.84.201
-IP,185.225.84.202
-Domain Name,loginverifyrestore.com
-Domain Name,securemailupdateaccess.net
+Domain Name,-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
+Domain Name,-addressed-a-maximum-severity-flaw-in-goanywhere-mft-software.html
+Domain Name,-aerospace-disrupted-operations-at-major-european-airports.html
+Domain Name,-agency-enisa-says-ransomware-attack-behind-airport-disruptions.html
+Domain Name,-and-sudo-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,-botnet-targets-56-flaws-across-30-device-types-worldwide.html
+Domain Name,-chromium-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,-claims-to-have-breached-red-hat-s-private-github-repositories.html
+Domain Name,-confirms-cyberattack-exposed-ids-passports-in-june-incident.html
+Domain Name,-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html
+Domain Name,-customers-to-new-data-breach-linked-to-third-party-provider.html
+Domain Name,-discloses-a-data-breach-impacting-over-1-2-million-people.html
+Domain Name,-discloses-third-party-breach-affecting-customer-support-data.html
+Domain Name,-expose-malware-and-zero-day-behind-oracle-ebs-extortion.html
+Domain Name,-fixed-a-critical-rce-flaw-in-its-web-help-desk-software.html
+Domain Name,-founder-to-3-years-for-cybercrime-and-possession-of-csam.html
+Domain Name,-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,-ie-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,-in-5-5b-crypto-fraud-marks-worlds-largest-bitcoin-seizure.html
+Domain Name,-in-salesforce-agentforce-exposes-crm-data-via-prompt-injection.html
+Domain Name,-kansiossa-on-ollut-liian-laajat-kayttooikeudet.html
+Domain Name,-members-linked-to-the-2024-attack-on-transport-for-london.html
+Domain Name,-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html
+Domain Name,-of-cl0p-extortion-campaign-against-oracle-e-business-users.html
+Domain Name,-on-jaguar-land-rover-inflicts-2-5b-loss-on-uk-economy.html
+Domain Name,-online-sales-after-a-ransomware-attack-on-logistics-partner.html
+Domain Name,-oracle-ebs-rce-cve-2025-61882-to-cl0p-attacks-began-aug-9-2025.html
+Domain Name,-resentenced-former-breachforums-admin-to-three-years-in-prison.html
+Domain Name,-revamps-internet-explorer-mode-in-edge-after-august-attacks.html
+Domain Name,-sensitive-uk-mod-files-including-info-on-eight-military-bases.html
+Domain Name,-source-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,-teamed-up-to-dismantle-the-raccoono365-phishing-service.html
+Domain Name,-teens-arrested-for-spying-on-behalf-of-pro-russian-hackers.html
+Domain Name,-think-tanks-and-academics-tied-to-us-china-trade-and-policy.html
+Domain Name,-to-reset-credentials-after-mysonicwall-backups-were-exposed.html
+Domain Name,-uncovers-gamaredon-turla-collaboration-in-ukraine-cyberattacks.html
+Domain Name,-union-county-suffers-ransomware-attack-impacting-45000-people.html
+Domain Name,-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html
+Domain Name,13-year-redis-flaw-exposed-cvss-100.html
+Domain Name,accountaccess.org
+Domain Name,accountportal.org
 Domain Name,accountportalverify.org
-SHA256,8f14e45fceea167a5a36dedd4bea254300000000000000000000000000000000
-SHA256,c9f0f895fb98ab9159f51fd0297e236d00000000000000000000000000000000
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-Filename,oct23_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@loginverifyrestore.com
-Email Address,admin@securemailupdateaccess.net
-SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-MD5,03c7c0ace395d80182db07ae2c30f034
-MD5,9a1158154dfa42caddbd0694a4e9bdc8
-Filename,sep22_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,admin@loginupdateverify.com
-Email Address,support@securemailaccess.net
-Filename,oct22_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@loginrestoreupdate.com
-Email Address,admin@securemailverifyaccess.net
-IP,185.62.189.88
-IP,91.215.85.198
-IP,45.9.148.182
-IP,185.225.73.90
-IP,185.225.73.118
-SHA256,3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a
-SHA256,7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e
-IP,185.225.81.170
-IP,185.225.81.171
-IP,185.225.81.172
-Domain Name,loginrestoreaccess.com
-Domain Name,securemailupdate.net
-Domain Name,accountverifyportal.org
-SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
-SHA256,98f13708210194c475687be6106a6c9d00000000000000000000000000000000
-MD5,9ae0ea9e3c9c6e1b9b6252c8395efdc1
-MD5,1c383cd30b7c298ab50293adfecb7b18
-Filename,sep21_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,admin@loginrestoreaccess.com
-Email Address,support@securemailupdate.net
-SHA256,9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c
-Filename,invoice_1026.pdf
-IP,185.225.80.160
-IP,185.225.80.161
-IP,185.225.80.162
-Domain Name,loginupdateaccess.com
-Domain Name,securemailrestore.net
-Domain Name,accountverify.org
-SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000
-SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000
-MD5,3c59dc048e8850243be8079a5c74d079
-MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3
-Filename,oct21_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@loginupdateaccess.com
-Email Address,admin@securemailrestore.net
-Filename,update_patch.exe
-Filename,login_form.html
-IP,185.225.79.150
-IP,185.225.79.151
-IP,185.225.79.152
-Domain Name,loginaccessupdate.com
-Domain Name,securemailverify.net
 Domain Name,accountrestore.org
-SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
-SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
-MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
-MD5,37693cfc748049e45d87b8c7d8b9aacd
-Filename,sep19_patch_update.exe
-Filename,login_form_recovery.docx
+Domain Name,accountrestore.org
+Domain Name,accountrestoreaccess.org
+Domain Name,accountrestoreportal.org
+Domain Name,accountrestoreportal.org
+Domain Name,accountrestoreportal.org
+Domain Name,accountrestoreupdate.org
+Domain Name,accountrestoreupdate.org
+Domain Name,accountrestoreverify.org
+Domain Name,accountrestoreverify.org
+Domain Name,accountupdate.com
+Domain Name,accountupdate.org
+Domain Name,accountupdateportal.org
+Domain Name,accountverify.org
+Domain Name,accountverify[.]site
+Domain Name,accountverifyportal.org
+Domain Name,adsemail.com
+Domain Name,adsmarks.com
+Domain Name,akira-ransomware-bypasses-mfa-on-sonicwall-vpns.html
+Domain Name,alert-cve-2025-61882.html
+Domain Name,alert-cve-2025-61884.html
+Domain Name,apple-backports-fix-for-actively-exploited-cve-2025-43300.html
+Domain Name,apple-backports-fix-for-cve-2025-43300.html
+Domain Name,apsb25-88.html
+Domain Name,apt36-targets-indian-government-with.html
+Domain Name,arcticwolf.com
+Domain Name,arstechnica.com
+Domain Name,art-2000011532682.html
+Domain Name,astaroth-banking-trojan-abuses-github.html
+Domain Name,badiis-malware-spreads-via-seo.html
+Domain Name,beware-github-repos-distributing-atomic-infostealer-on-macos.html
+Domain Name,Bitnob.com
+Domain Name,bleepingcomputer.com
+Domain Name,blog.eclecticiq.com
+Domain Name,blog.lastpass.com
+Domain Name,blog.nviso.eu
+Domain Name,blog.talosintelligence.com
+Domain Name,blog.virustotal.com
+Domain Name,blogs.infoblox.com
+Domain Name,broadcom-patches-vmware-zero-day-actively-exploited-by-unc5174.html
+Domain Name,captchanom[.]top
+Domain Name,carbonblack.exe
+Domain Name,Cargo.toml
+Domain Name,ccb.belgium.be
+Domain Name,CERT.at
+Domain Name,CERT.be
+Domain Name,certutil.exe
+Domain Name,checkme.dll
+Domain Name,china-linked-plugx-and-bookworm-malware.html
+Domain Name,chinese-ta415-uses-vs-code-remote.html
+Domain Name,chintangurjar.com
+Domain Name,chrome.exe
+Domain Name,cisa-sounds-alarm-on-critical-sudo-flaw.html
+Domain Name,cisa-warns-of-malware-deployed-through-ivanti-epmm-flaws.html
+Domain Name,cisa-warns-of-two-malware-strains.html
+Domain Name,cisa.gov
+Domain Name,cisco-asa-firewall-zero-day-exploits.html
+Domain Name,cl0p-linked-hackers-breach-dozens-of.html
+Domain Name,clop-ransomware-group-claims-the-hack-of-harvard-university.html
+Domain Name,cloud.google.com
+Domain Name,cmd.exe
+Domain Name,co-op-leaves-shelves-empty-data-stolen-and-275m-in-lost-revenue.html
+Domain Name,comicform-and-sectorj149-hackers-deploy.html
+Domain Name,confucius-hackers-hit-pakistan-with-new.html
+Domain Name,crates.io
+Domain Name,critical-lanscope-endpoint-manager-bug.html
+Domain Name,Crypto.com
+Domain Name,cyber.gc.ca
+Domain Name,cyberscoop.com
+Domain Name,cybersecuritydive.com
+Domain Name,darkreading.com
+Domain Name,data-stolen-in-unity-technologiess-speedtree-website-compromise.html
+Domain Name,databreach.com
+Domain Name,databreaches.net
+Domain Name,destination.domain
+Domain Name,dirkjanm.io
+Domain Name,discord.com
+Domain Name,dropbox-fileshare[.]net
+Domain Name,dt1.automotosport.net
+Domain Name,EDR-Freeze-Puts-EDRs-Antivirus-Into-Coma.html
+Domain Name,europol-dismantles-sim-farm-network.html
+Domain Name,experts-warn-of-widespread-sonicwall.html
+Domain Name,explorer.exe
+Domain Name,fbi-alerts-public-to-spoofed-ic3-site-used-in-fraud-schemes.html
+Domain Name,feeds.fortinet.com
+Domain Name,firefox.exe
+Domain Name,first-malicious-mcp-server-found.html
+Domain Name,five-new-exploited-bugs-land-in-cisas.html
+Domain Name,fortra-releases-critical-patch-for-cvss.html
+Domain Name,from-detection-to-patch-fortra-reveals.html
+Domain Name,from-lfi-to-rce-active-exploitation.html
+Domain Name,from-quantum-hacks-to-ai-defenses.html
+Domain Name,gbhackers.com
+Domain Name,github-mandates-2fa-and-short-lived.html
+Domain Name,github.com
+Domain Name,gmail.com
+Domain Name,go.theregister.com
+Domain Name,google-identifies-three-new-russian.html
+Domain Name,google-mandiant-probes-new-oracle.html
+Domain Name,googleprojectzero.blogspot.com
+Domain Name,govcert.gov.hk
+Domain Name,GovCERT.HK
+Domain Name,hackers-exploit-pandoc-cve-2025-51591.html
+Domain Name,hackers-used-snappybee-malware-and.html
+Domain Name,hacking-electronic-safes.html
+Domain Name,hackread.com
+Domain Name,helper.py
+Domain Name,helpx.adobe.com
+Domain Name,hit-adobe-commerce-and-magento-via-critical-cve-2025-54236-flaw.html
+Domain Name,hkcert.org
+Domain Name,http.request.method
+Domain Name,iamnotarobot.dll
+Domain Name,infosecurity-magazine.com
+Domain Name,inspectguarantee[.]org
+Domain Name,intlspring.com
+Domain Name,IS.fi
+Domain Name,jfrog.com
+Domain Name,juniper-patched-nine-critical-flaws-in-junos-space.html
+Domain Name,koreajoongangdaily.joins.com
+Domain Name,krebsonsecurity.com
+Domain Name,labs.watchtowr.com
+Domain Name,lastpass-warns-of-fake-repositories.html
+Domain Name,lockbit-5-targets-windows-linux-esxi.html
+Domain Name,login-verification[.]org
+Domain Name,loginaccessportal.com
+Domain Name,loginaccessupdate.com
+Domain Name,loginaccessverify.com
+Domain Name,loginportal.com
+Domain Name,loginrestoreaccess.com
+Domain Name,loginrestoreupdate.com
+Domain Name,loginupdateaccess.com
+Domain Name,loginupdateaccess.com
+Domain Name,loginupdateportal.com
+Domain Name,loginupdateportal.com
+Domain Name,loginupdateverify.com
+Domain Name,loginverify.com
+Domain Name,loginverifyaccess.com
+Domain Name,loginverifyaccess.com
+Domain Name,loginverifyaccess.com
+Domain Name,loginverifyaccess.com
+Domain Name,loginverifyrestore.com
+Domain Name,loginverifyupdate.com
+Domain Name,machinerie.dll
+Domain Name,mailaccess.org
+Domain Name,mailaccess[.]tech
+Domain Name,mailupdate.org
+Domain Name,mailupdateaccess.net
+Domain Name,mailverifyaccess.net
+Domain Name,mainnet[.]solana-rpc-pool[.]workers[.]dev
+Domain Name,malicious-rust-crates-steal-solana-and.html
+Domain Name,malicious.your-domain.com
+Domain Name,malwarebytes.com
+Domain Name,microsoft-flags-ai-driven-phishing-llm.html
+Domain Name,microsoft-issues-emergency-patch-for.html
+Domain Name,microsoft-links-storm-1175-to.html
+Domain Name,microsoft-locks-down-ie-mode-after.html
+Domain Name,microsoft-patches-critical-entra-id.html
+Domain Name,microsoft-warns-of-payroll-pirates.html
+Domain Name,msedge.exe
+Domain Name,msgreceivedalert[.]com
+Domain Name,msiexec.exe
+Domain Name,mss-claims-nsa-used-42-cyber-tools-in.html
+Domain Name,MsSense.exe
+Domain Name,MySonicWall.com
+Domain Name,new-oracle-e-business-suite-bug-could.html
+Domain Name,new-rust-based-malware-chaosbot-hijacks.html
+Domain Name,news.sophos.com
+Domain Name,node.exe
+Domain Name,Node.js
+Domain Name,north-korean-hackers-lure-defense.html
+Domain Name,npm-pypi-and-rubygems-packages-found.html
+Domain Name,npm.exe
+Domain Name,npmjs.com
+Domain Name,offenders...was
+Domain Name,officedocdrivecloudfile[.]com
+Domain Name,onedrive-backup[.]info
+Domain Name,openai-disrupts-russian-north-korean.html
+Domain Name,oracle-ebs-under-fire-as-cl0p-exploits.html
+Domain Name,oracle-rushes-patch-for-cve-2025-61882.html
+Domain Name,over-250-magento-stores-hit-overnight.html
+Domain Name,owa-outlookaccess-login[.]us
+Domain Name,package-lock.json
+Domain Name,package.json
+Domain Name,pastebin[.]com
+Domain Name,pe.exports
+Domain Name,phantom-taurus-new-china-linked-hacker.html
+Domain Name,pointer-leaks-through-pointer-keyed.html
+Domain Name,powershell.exe
+Domain Name,psexec.exe
+Domain Name,psexec.py
+Domain Name,raccoono365-phishing-network-shut-down.html
+Domain Name,reading-the-enisa-threat-landscape-2025-report.html
+Domain Name,redcanary.com
+Domain Name,reliaquest.com
+Domain Name,research.checkpoint.com
+Domain Name,researchers-disclose-google-gemini-ai.html
+Domain Name,researchers-expose-malterminal-an-llm-enabled-malware-pioneer.html
+Domain Name,researchers-expose-ta585s-monsterv2.html
+Domain Name,researchers-uncover-gpt-4-powered.html
+Domain Name,researchers-uncover-watchguard-vpn-bug.html
+Domain Name,rethinking-ai-data-security-buyers-guide.html
+Domain Name,reuters.com
+Domain Name,ria.ee
+Domain Name,rundll32.exe
+Domain Name,russian-hackers-gamaredon-and-turla.html
+Domain Name,salesforce-patches-critical-forcedleak.html
+Domain Name,scattered-spider-resurfaces-with.html
+Domain Name,scworld.com
+Domain Name,sec.cloudapps.cisco.com
+Domain Name,secure-ftd-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Domain Name,secureaccess.net
+Domain Name,securelist.com
+Domain Name,securelogin[.]cloud
+Domain Name,securelogin[.]online
+Domain Name,secureloginportal.com
+Domain Name,secureloginupdate.com
+Domain Name,securemailaccess.net
+Domain Name,securemailaccess.net
+Domain Name,securemailaccessportal.net
+Domain Name,securemailportal.net
+Domain Name,securemailrestore.net
+Domain Name,securemailupdate.net
+Domain Name,securemailupdate.net
+Domain Name,securemailupdate.net
+Domain Name,securemailupdateaccess.net
+Domain Name,securemailupdateportal.net
+Domain Name,securemailupdateportal.net
+Domain Name,securemailverify.net
+Domain Name,securemailverify.net
+Domain Name,securemailverify.net
+Domain Name,securemailverifyaccess.net
+Domain Name,securemailverifyaccess.net
+Domain Name,securemailverifyupdate.net
+Domain Name,secureupdate.net
+Domain Name,security-update-to-fix-new-e-business-suite-flaw-cve-2025-61884.html
+Domain Name,securityaffairs.com
+Domain Name,securityboulevard.com
+Domain Name,securityweek.com
+Domain Name,shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html
+Domain Name,shadowleak-zero-click-flaw-leaks-gmail.html
+Domain Name,socket.dev
+Domain Name,solarwinds-releases-hotfix-for-critical.html
+Domain Name,sonicwall-urges-password-resets-after.html
+Domain Name,source.ip
+Domain Name,southprovesolutions[.]com
+Domain Name,staffvirtual[.]website
+Domain Name,state-sponsored-hackers-exploiting.html
+Domain Name,stealit-malware-abuses-nodejs-single.html
+Domain Name,svchost.exe
+Domain Name,system-healthadv[.]com
+Domain Name,ta558-uses-ai-generated-scripts-to.html
+Domain Name,targets-european-defense-firms-in-uav-themed-operation-dreamjob.html
+Domain Name,Teams.exe
+Domain Name,tech-overtakes-gaming-as-top-ddos.html
+Domain Name,tenable.com
+Domain Name,TH-DD-Mon-YYYY.md
+Domain Name,thedfirreport.com
+Domain Name,thehackernews.com
+Domain Name,therecord.media
+Domain Name,theregister.com
+Domain Name,tools.cisco.com
+Domain Name,two-new-supermicro-bmc-bugs-allow.html
+Domain Name,uk-arrest-two-teen-scattered-spider.html
+Domain Name,uk-police-just-seized-55-billion-in.html
+Domain Name,unc5221-uses-brickstorm-backdoor-to.html
+Domain Name,unit42.paloaltonetworks.com
+Domain Name,update-microsoft[.]com
+Domain Name,urgent-china-linked-hackers-exploit-new.html
+Domain Name,urgent-cisco-asa-zero-day-duo-under.html
+Domain Name,url.path
+Domain Name,verifyaccount.org
+Domain Name,verifylogin.org
+Domain Name,VGAuthService.exe
+Domain Name,virustotal-success-stories-seqrite.html
+Domain Name,vssadmin.exe
+Domain Name,Vulnerabilities...Allowed
+Domain Name,w3wp.exe
+Domain Name,webhook.site
+Domain Name,welivesecurity.com
+Domain Name,WerFault.exe
+Domain Name,wermgr.exe
+Domain Name,wmiexec.exe
+Domain Name,wmiexec.py
+Domain Name,wscript.exe
+Domain Name,wsusservice.exe
+Domain Name,www.acronis.com
+Domain Name,www.bleepingcomputer.com
+Domain Name,www.cert.at
+Domain Name,www.cisa.gov
+Domain Name,www.cleafy.com
+Domain Name,www.crowdstrike.com
+Domain Name,www.cybersecuritydive.com
+Domain Name,www.darkreading.com
+Domain Name,www.databreachtoday.com
+Domain Name,www.epressi.com
+Domain Name,www.gdatasoftware.com
+Domain Name,www.govcert.gov.hk
+Domain Name,www.hkcert.org
+Domain Name,www.infosecurity-magazine.com
+Domain Name,www.is.fi
+Domain Name,www.kaspersky.com
+Domain Name,www.kyberturvallisuuskeskus.fi
+Domain Name,www.malwarebytes.com
+Domain Name,www.mcafee.com
+Domain Name,www.microsoft.com
+Domain Name,www.ncsc.gov.uk
+Domain Name,www.oracle.com
+Domain Name,www.paloaltonetworks.com
+Domain Name,www.proofpoint.com
+Domain Name,www.recordedfuture.com
+Domain Name,www.reddit.com
+Domain Name,www.reuters.com
+Domain Name,www.schneier.com
+Domain Name,www.scworld.com
+Domain Name,www.secretservice.gov
+Domain Name,www.securityweek.com
+Domain Name,www.tenable.com
+Domain Name,www.theregister.com
+Domain Name,www.trendmicro.com
+Domain Name,www.tripwire.com
+Domain Name,www.varonis.com
+Domain Name,www.welivesecurity.com
+Domain Name,www.zdnet.com
+Domain Name,www.zerodayinitiative.com
+Domain Name,www.zerosalarium.com
+Domain Name,www.zscaler.com
+Domain Name,yarn.lock
+Domain Name,yle.fi
+Domain Name,zensec.co.uk
+Domain Name,zerosalarium.com
+Domain Name,zimbra-zero-day-exploited-to-target.html
+Email Address,admin@accountupdate.com
+Email Address,admin@accountverify.site
+Email Address,admin@loginaccessportal.com
 Email Address,admin@loginaccessupdate.com
-Email Address,support@securemailverify.net
-Email Address,support@securelogin.cloud
+Email Address,admin@loginaccessverify.com
+Email Address,admin@loginrestoreaccess.com
+Email Address,admin@loginupdateportal.com
+Email Address,admin@loginupdateverify.com
+Email Address,admin@loginverifyaccess.com
+Email Address,admin@loginverifyaccess.com
+Email Address,admin@loginverifyaccess.com
+Email Address,admin@mailverifyaccess.net
+Email Address,admin@secureloginportal.com
+Email Address,admin@securemailaccessportal.net
+Email Address,admin@securemailrestore.net
+Email Address,admin@securemailupdateaccess.net
+Email Address,admin@securemailupdateportal.net
+Email Address,admin@securemailverify.net
+Email Address,admin@securemailverify.net
+Email Address,admin@securemailverifyaccess.net
+Email Address,admin@secureupdate.net
 Email Address,admin@update-microsoft.com
 Email Address,alerts@dropbox-fileshare.net
+Email Address,billordowiyi@gmail.com
+Email Address,help@securemailaccess.net
+Email Address,info@loginportal.com
+Email Address,info@mailupdateaccess.net
+Email Address,support@loginrestoreupdate.com
+Email Address,support@loginupdateaccess.com
+Email Address,support@loginupdateaccess.com
+Email Address,support@loginupdateportal.com
+Email Address,support@loginverify.com1
+Email Address,support@loginverifyaccess.com
+Email Address,support@loginverifyrestore.com
+Email Address,support@loginverifyupdate.com
+Email Address,support@secureaccess.net
+Email Address,support@securelogin.cloud
+Email Address,support@securelogin.online
+Email Address,support@secureloginupdate.com
+Email Address,support@securemailaccess.net
+Email Address,support@securemailportal.net
+Email Address,support@securemailupdate.net
+Email Address,support@securemailupdate.net
+Email Address,support@securemailupdate.net
+Email Address,support@securemailupdateportal.net
+Email Address,support@securemailverify.net
+Email Address,support@securemailverifyaccess.net
+Email Address,support@securemailverifyupdate.net
+Filename, OR wmiexec.exe
+Filename,13-year-redis-flaw-exposed-cvss-100.html
+Filename,a-cyberattack-on-collins-aerospace-disrupted-operations-at-major-european-airports.html
+Filename,account_login_form.docx
+Filename,akira-ransomware-bypasses-mfa-on-sonicwall-vpns.html
+Filename,alert-cve-2025-61882.html
+Filename,alert-cve-2025-61884.html
+Filename,apple-backports-fix-for-actively-exploited-cve-2025-43300.html
+Filename,apple-backports-fix-for-cve-2025-43300.html
+Filename,apsb25-88.html
+Filename,apt36-targets-indian-government-with.html
+Filename,art-2000011532682.html
+Filename,astaroth-banking-trojan-abuses-github.html
+Filename,badiis-malware-spreads-via-seo.html
+Filename,beware-github-repos-distributing-atomic-infostealer-on-macos.html
+Filename,broadcom-patches-vmware-zero-day-actively-exploited-by-unc5174.html
+Filename,carbonblack.exe
+Filename,certutil.exe
+Filename,checkme.dll
+Filename,china-linked-apt41-targets-government-think-tanks-and-academics-tied-to-us-china-trade-and-policy.html
+Filename,china-linked-plugx-and-bookworm-malware.html
+Filename,chinese-ta415-uses-vs-code-remote.html
+Filename,chrome.exe
+Filename,cisa-sounds-alarm-on-critical-sudo-flaw.html
+Filename,cisa-warns-of-malware-deployed-through-ivanti-epmm-flaws.html
+Filename,cisa-warns-of-two-malware-strains.html
+Filename,cisco-asa-firewall-zero-day-exploits.html
+Filename,cisco-fixed-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
+Filename,cl0p-linked-hackers-breach-dozens-of.html
+Filename,clop-ransomware-group-claims-the-hack-of-harvard-university.html
+Filename,cmd.exe
+Filename,comicform-and-sectorj149-hackers-deploy.html
+Filename,confucius-hackers-hit-pakistan-with-new.html
+Filename,credentials_backup.zip
+Filename,critical-lanscope-endpoint-manager-bug.html
+Filename,crowdstrike-ties-oracle-ebs-rce-cve-2025-61882-to-cl0p-attacks-began-aug-9-2025.html
+Filename,customer-payment-data-stolen-in-unity-technologiess-speedtree-website-compromise.html
+Filename,cyberattack-on-co-op-leaves-shelves-empty-data-stolen-and-275m-in-lost-revenue.html
+Filename,cyberattack-on-jaguar-land-rover-inflicts-2-5b-loss-on-uk-economy.html
+Filename,cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html
+Filename,discord-discloses-third-party-breach-affecting-customer-support-data.html
+Filename,doj-resentenced-former-breachforums-admin-to-three-years-in-prison.html
+Filename,doj-resentences-breachforums-founder-to-3-years-for-cybercrime-and-possession-of-csam.html
+Filename,dutch-teens-arrested-for-spying-on-behalf-of-pro-russian-hackers.html
+Filename,EDR-Freeze-Puts-EDRs-Antivirus-Into-Coma.html
+Filename,eset-uncovers-gamaredon-turla-collaboration-in-ukraine-cyberattacks.html
+Filename,eu-agency-enisa-says-ransomware-attack-behind-airport-disruptions.html
+Filename,europol-dismantles-sim-farm-network.html
+Filename,experts-warn-of-widespread-sonicwall.html
+Filename,explorer.exe
+Filename,fbi-alerts-public-to-spoofed-ic3-site-used-in-fraud-schemes.html
+Filename,firefox.exe
+Filename,first-malicious-mcp-server-found.html
+Filename,five-new-exploited-bugs-land-in-cisas.html
+Filename,forcedleak-flaw-in-salesforce-agentforce-exposes-crm-data-via-prompt-injection.html
+Filename,fortra-addressed-a-maximum-severity-flaw-in-goanywhere-mft-software.html
+Filename,fortra-releases-critical-patch-for-cvss.html
+Filename,from-detection-to-patch-fortra-reveals.html
+Filename,from-lfi-to-rce-active-exploitation.html
+Filename,from-quantum-hacks-to-ai-defenses.html
+Filename,github-mandates-2fa-and-short-lived.html
+Filename,goanywhere-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html
+Filename,google-identifies-three-new-russian.html
+Filename,google-mandiant-expose-malware-and-zero-day-behind-oracle-ebs-extortion.html
+Filename,google-mandiant-probes-new-oracle.html
+Filename,google-warns-of-cl0p-extortion-campaign-against-oracle-e-business-users.html
+Filename,hackers-exploit-pandoc-cve-2025-51591.html
+Filename,hackers-used-snappybee-malware-and.html
+Filename,hacking-electronic-safes.html
+Filename,harrods-alerts-customers-to-new-data-breach-linked-to-third-party-provider.html
+Filename,iamnotarobot.dll
+Filename,invoice_1025.pdf
+Filename,invoice_1026.pdf
+Filename,japanese-retailer-muji-halted-online-sales-after-a-ransomware-attack-on-logistics-partner.html
+Filename,juniper-patched-nine-critical-flaws-in-junos-space.html
+Filename,lastpass-warns-of-fake-repositories.html
+Filename,lazarus-targets-european-defense-firms-in-uav-themed-operation-dreamjob.html
+Filename,legit_app.exe
+Filename,lockbit-5-targets-windows-linux-esxi.html
+Filename,login_backup_form.docx
+Filename,login_credentials.docx
+Filename,login_details.docx
+Filename,login_form.html
+Filename,login_form_backup.docx
+Filename,login_form_recovery.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_restore.docx
+Filename,login_form_update.docx
+Filename,machinerie.dll
+Filename,malicious-rust-crates-steal-solana-and.html
+Filename,microsoft-and-cloudflare-teamed-up-to-dismantle-the-raccoono365-phishing-service.html
+Filename,microsoft-flags-ai-driven-phishing-llm.html
+Filename,microsoft-issues-emergency-patch-for.html
+Filename,microsoft-links-storm-1175-to.html
+Filename,microsoft-locks-down-ie-mode-after.html
+Filename,microsoft-patches-critical-entra-id.html
+Filename,microsoft-revamps-internet-explorer-mode-in-edge-after-august-attacks.html
+Filename,microsoft-warns-of-payroll-pirates.html
+Filename,msedge.exe
+Filename,msiexec.exe
+Filename,mss-claims-nsa-used-42-cyber-tools-in.html
+Filename,MsSense.exe
+Filename,New Stealit Campaign Abuses Node.js
+Filename,new-oracle-e-business-suite-bug-could.html
+Filename,new-rust-based-malware-chaosbot-hijacks.html
+Filename,node.exe
+Filename,north-korean-hackers-lure-defense.html
+Filename,npm-pypi-and-rubygems-packages-found.html
+Filename,npm.exe
+Filename,oct13_patch_update.exe
+Filename,oct21_patch_update.exe
+Filename,oct22_patch_update.exe
+Filename,oct23_patch_update.exe
+Filename,oct26_patch_update.exe
+Filename,oct9_security_patch.exe
+Filename,oct_patch_update.exe
+Filename,ohios-union-county-suffers-ransomware-attack-impacting-45000-people.html
+Filename,openai-disrupts-russian-north-korean.html
+Filename,oracle-ebs-under-fire-as-cl0p-exploits.html
+Filename,oracle-issued-an-emergency-security-update-to-fix-new-e-business-suite-flaw-cve-2025-61884.html
+Filename,oracle-patches-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html
+Filename,oracle-rushes-patch-for-cve-2025-61882.html
+Filename,over-250-attacks-hit-adobe-commerce-and-magento-via-critical-cve-2025-54236-flaw.html
+Filename,over-250-magento-stores-hit-overnight.html
+Filename,phantom-taurus-new-china-linked-hacker.html
+Filename,pointer-leaks-through-pointer-keyed.html
+Filename,powershell.exe
+Filename,psexec.exe
+Filename,raccoono365-phishing-network-shut-down.html
+Filename,reading-the-enisa-threat-landscape-2025-report.html
+Filename,researchers-disclose-google-gemini-ai.html
+Filename,researchers-expose-malterminal-an-llm-enabled-malware-pioneer.html
+Filename,researchers-expose-ta585s-monsterv2.html
+Filename,researchers-uncover-gpt-4-powered.html
+Filename,researchers-uncover-watchguard-vpn-bug.html
+Filename,rethinking-ai-data-security-buyers-guide.html
+Filename,riihimaen-kaupungin-sisaisen-verkon-tiedostopalvelimen-kansiossa-on-ollut-liian-laajat-kayttooikeudet.html
+Filename,rondodox-botnet-targets-56-flaws-across-30-device-types-worldwide.html
+Filename,rundll32.exe
+Filename,russian-hackers-gamaredon-and-turla.html
+Filename,russian-lynk-group-leaks-sensitive-uk-mod-files-including-info-on-eight-military-bases.html
+Filename,salesforce-patches-critical-forcedleak.html
+Filename,scattered-spider-resurfaces-with.html
+Filename,security_patch_oct.exe
+Filename,sep17_patch_update.exe
+Filename,sep18_patch_update.exe
+Filename,sep19_patch_update.exe
+Filename,sep21_patch_update.exe
+Filename,sep22_patch_update.exe
+Filename,sep23_patch_update.exe
+Filename,sep24_patch_update.exe
+Filename,sep25_patch_update.exe
+Filename,sep26_patch_update.exe
+Filename,sep28_patch_update.exe
+Filename,sep28_patch_update.exe
+Filename,sep29_patch_update.exe
+Filename,shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html
+Filename,shadowleak-zero-click-flaw-leaks-gmail.html
+Filename,simonmed-imaging-discloses-a-data-breach-impacting-over-1-2-million-people.html
+Filename,solarwinds-fixed-a-critical-rce-flaw-in-its-web-help-desk-software.html
+Filename,solarwinds-releases-hotfix-for-critical.html
+Filename,sonicwall-urges-password-resets-after.html
+Filename,sonicwall-warns-customers-to-reset-credentials-after-mysonicwall-backups-were-exposed.html
+Filename,state-sponsored-hackers-exploiting.html
+Filename,Stealit Malware Abuses Node.js
+Filename,stealit-malware-abuses-nodejs-single.html
+Filename,svchost.exe
+Filename,ta558-uses-ai-generated-scripts-to.html
+Filename,Teams.exe
+Filename,Teams_Installer.exe
+Filename,Teams_setup.exe
+Filename,tech-overtakes-gaming-as-top-ddos.html
+Filename,two-new-supermicro-bmc-bugs-allow.html
+Filename,u-s-cisa-adds-adminer-cisco-ios-fortra-goanywhere-mft-libraesva-esg-and-sudo-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,u-s-cisa-adds-cisco-secure-firewall-asa-and-secure-ftd-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,u-s-cisa-adds-google-chromium-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,u-s-cisa-adds-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,u-s-cisa-adds-microsoft-wsus-and-adobe-commerce-and-magento-open-source-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,u-s-cisa-adds-oracle-mozilla-microsoft-windows-linux-kernel-and-microsoft-ie-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,u-s-cisa-adds-synacor-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+Filename,uk-arrest-two-teen-scattered-spider.html
+Filename,uk-convicts-chinese-national-in-5-5b-crypto-fraud-marks-worlds-largest-bitcoin-seizure.html
+Filename,uk-police-arrested-two-teen-scattered-spider-members-linked-to-the-2024-attack-on-transport-for-london.html
+Filename,uk-police-just-seized-55-billion-in.html
+Filename,unc5221-uses-brickstorm-backdoor-to.html
+Filename,update_patch.exe
+Filename,update_patch.exe
+Filename,urgent-china-linked-hackers-exploit-new.html
+Filename,urgent-cisco-asa-zero-day-duo-under.html
+Filename,VGAuthService.exe
+Filename,virustotal-success-stories-seqrite.html
+Filename,vssadmin.exe
+Filename,w3wp.exe
+Filename,WerFault.exe
+Filename,wermgr.exe
+Filename,westjet-confirms-cyberattack-exposed-ids-passports-in-june-incident.html
+Filename,wscript.exe
+Filename,wsusservice.exe
+Filename,zimbra-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html
+Filename,zimbra-zero-day-exploited-to-target.html
+IP,1.2.3.4
+IP,103.145.13.87
+IP,136.243.146[.]46
+IP,139.180.160.173
+IP,155.138.150.12
+IP,169.254.169.254
 IP,185.141.25.168
 IP,185.141.25.169
-IP,103.145.13.87
+IP,185.141.25.170
+IP,185.225.73.118
+IP,185.225.73.90
 IP,185.225.73.90
 IP,185.225.73.91
-Domain Name,loginportal.com
-Domain Name,secureaccess.net
-Domain Name,mailupdate.org
-SHA256,4a7d1ed414474e4033ac29ccb8653d9b00000000000000000000000000000000
-SHA256,9c1185a5c5e9fc54612808977ee8f548b2258d31
-MD5,5d41402abc4b2a76b9719d911017c592
-MD5,7d793037a0760186574b0282f2f435e7
-Filename,update_patch.exe
-Filename,credentials_backup.zip
-Email Address,info@loginportal.com
-Email Address,support@secureaccess.net
-IP,45.153.160.140
-IP,45.153.160.141
-IP,45.153.160.142
-Domain Name,accountupdate.com
-Domain Name,securemailaccess.net
-Domain Name,verifylogin.org
-SHA256,6f1ed002ab5595859014ebf0951522d9b0d00000000000000000000000000000
-SHA256,3c6e0b8a9c15224a8228b9a98ca1531d00000000000000000000000000000000
-MD5,900150983cd24fb0d6963f7d28e17f72
-MD5,0cc175b9c0f1b6a831c399e269772661
-Filename,login_form_update.docx
-IP,185.225.76.120
-IP,185.225.76.121
-IP,185.225.78.140
-IP,185.225.78.141
-IP,185.225.78.142
-Domain Name,secureloginupdate.com
-Domain Name,mailverifyaccess.net
-Domain Name,accountportal.org
-SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
-SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
-MD5,6c8349cc7260ae62e3b1396831a8398f
-MD5,34173cb38f07f89ddbebc2ac9128303f
-Filename,sep18_patch_update.exe
-Filename,login_form_restore.docx
-Email Address,support@secureloginupdate.com
-Email Address,admin@mailverifyaccess.net
-IP,185.225.76.122
-IP,185.225.77.130
-IP,185.225.77.131
-IP,185.225.77.132
-Domain Name,loginverifyaccess.com
-Domain Name,securemailportal.net
-Domain Name,accountupdate.org
-SHA256,7b8b965ad4bca0e41ab51de7b31363a100000000000000000000000000000000
-SHA256,9c4e0e5f4e8f2d3c1b2a3a4c5d6e7f8a00000000000000000000000000000000
-MD5,6512bd43d9caa6e02c990b0a82652dca
-MD5,c20ad4d76fe97759aa27a0c99bff6710
-Filename,sep17_patch_update.exe
-Filename,login_backup_form.docx
-Email Address,admin@loginverifyaccess.com
-Email Address,support@securemailportal.net
-Domain Name,loginupdateportal.com
-Domain Name,securemailverify.net
-Domain Name,accountaccess.org
-SHA256,9ae0ea9e3c9c6e1b9b6252c8395efdc1b00000000000000000000000000000000
-SHA256,1c383cd30b7c298ab50293adfecb7b1800000000000000000000000000000000
-MD5,45c48cce2e2d7fbdea1afc51c7c6ad26
-MD5,d3d9446802a44259755d38e6d163e820
-Filename,oct13_patch_update.exe
-Filename,login_form_backup.docx
-Email Address,support@loginupdateportal.com
-Email Address,admin@securemailverify.net
 IP,185.225.74.100
 IP,185.225.74.101
 IP,185.225.74.102
 IP,185.225.75.110
 IP,185.225.75.111
 IP,185.225.75.112
-Domain Name,secureloginportal.com
-Domain Name,mailupdateaccess.net
-Domain Name,verifyaccount.org
-SHA256,1f3870be274f6c49b3e31a0c6728957f00000000000000000000000000000000
-SHA256,3c59dc048e8850243be8079a5c74d07900000000000000000000000000000000
-MD5,8f14e45fceea167a5a36dedd4bea2543
-Filename,oct9_security_patch.exe
-Filename,account_login_form.docx
-Email Address,admin@secureloginportal.com
-Email Address,info@mailupdateaccess.net
-Domain Name,loginverify.com
-Domain Name,secureupdate.net
-Domain Name,mailaccess.org
-SHA256,2c1743a391305fbf367df8e4f069f9f9b00000000000000000000000000000000
-SHA256,8f14e45fceea167a5a36dedd4bea2543b00000000000000000000000000000000
+IP,185.225.76.120
+IP,185.225.76.121
+IP,185.225.76.122
+IP,185.225.77.130
+IP,185.225.77.131
+IP,185.225.77.132
+IP,185.225.78.140
+IP,185.225.78.141
+IP,185.225.78.142
+IP,185.225.79.150
+IP,185.225.79.151
+IP,185.225.79.152
+IP,185.225.80.160
+IP,185.225.80.161
+IP,185.225.80.162
+IP,185.225.81.170
+IP,185.225.81.171
+IP,185.225.81.172
+IP,185.225.82.180
+IP,185.225.82.181
+IP,185.225.82.182
+IP,185.225.83.190
+IP,185.225.83.191
+IP,185.225.83.192
+IP,185.225.84.200
+IP,185.225.84.201
+IP,185.225.84.202
+IP,185.225.85.210
+IP,185.225.85.211
+IP,185.225.85.212
+IP,185.225.86.220
+IP,185.225.86.221
+IP,185.225.86.222
+IP,185.225.87.230
+IP,185.225.87.231
+IP,185.225.87.232
+IP,185.225.88.240
+IP,185.225.88.241
+IP,185.225.88.242
+IP,185.225.89.250
+IP,185.225.89.251
+IP,185.225.89.252
+IP,185.225.90.260
+IP,185.225.90.260
+IP,185.225.90.261
+IP,185.225.90.261
+IP,185.225.90.262
+IP,185.225.90.262
+IP,185.225.91.270
+IP,185.225.91.271
+IP,185.225.91.272
+IP,185.62.189.88
+IP,19.20.0.1
+IP,200.58.107[.]25
+IP,45.153.160.140
+IP,45.153.160.141
+IP,45.153.160.142
+IP,45.9.148.182
+IP,85.239.52[.]32
+IP,91.200.14.69
+IP,91.215.85.198
+MD5,03c7c0ace395d80182db07ae2c30f034
+MD5,03c7c0ace395d80182db07ae2c30f034
+MD5,03c7c0ace395d80182db07ae2c30f034
+MD5,03c7c0ace395d80182db07ae2c30f034
+MD5,03c7c0ace395d80182db07ae2c30f034
+MD5,0cc175b9c0f1b6a831c399e269772661
+MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3
+MD5,0f28e62e4d6c2a72e3e0f3e3c3e0f3e3
+MD5,1c383cd30b7c298ab50293adfecb7b18
+MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
+MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
+MD5,1c8bfe8f801c0e1eaf2fcdf1800617c7
+MD5,327233d73236ca4d7c18ffd8f9924127
+MD5,34173cb38f07f89ddbebc2ac9128303f
+MD5,37693cfc748049e45d87b8c7d8b9aacd
+MD5,37693cfc748049e45d87b8c7d8b9aacd
+MD5,37693cfc748049e45d87b8c7d8b9aacd
+MD5,3918cace55342909c8309ec37d0207fd
+MD5,3c59dc048e8850243be8079a5c74d079
+MD5,3c59dc048e8850243be8079a5c74d079
+MD5,45c48cce2e2d7fbdea1afc51c7c6ad26
+MD5,4e732ced3463d06de0ca9a15b6153677
+MD5,5d41402abc4b2a76b9719d911017c592
+MD5,6512bd43d9caa6e02c990b0a82652dca
+MD5,6c8349cc7260ae62e3b1396831a8398f
+MD5,7d793037a0760186574b0282f2f435e7
 MD5,827ccb0eea8a706c4c34a16891f84e7b
-MD5,e1671797c52e15f763380b45e841ec32
-Filename,oct_patch_update.exe
-Filename,login_credentials.docx
-Email Address,support@loginverify.com1
-Email Address,admin@secureupdate.net
-Filename,security_patch_oct.exe
-Email Address,admin@accountupdate.com
-Email Address,help@securemailaccess.net
-IP,185.141.25.170
-Domain Name,securelogin[.]online
-Domain Name,accountverify[.]site
-Domain Name,mailaccess[.]tech
-SHA256,3f8d9c6b2e7f4a1c9b3e2d8f5a6c7e8d9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c
-SHA256,7e9d8c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b1a0f9e8d
+MD5,8e296a067a37563370ded05f5a3bf3ec
+MD5,8f14e45fceea167a5a36dedd4bea2543
+MD5,8f14e45fceea167a5a36dedd4bea2543
+MD5,900150983cd24fb0d6963f7d28e17f72
+MD5,9a092bbfc5325cbfca2f9807d074616a
+MD5,9a1158154dfa42caddbd0694a4e9bdc8
+MD5,9a1158154dfa42caddbd0694a4e9bdc8
+MD5,9a1158154dfa42caddbd0694a4e9bdc8
+MD5,9a1158154dfa42caddbd0694a4e9bdc8
+MD5,9a1158154dfa42caddbd0694a4e9bdc8
+MD5,9a1158154dfa42caddbd0694a4e9bdc8
+MD5,9ae0ea9e3c9c6e1b9b6252c8395efdc1
 MD5,9e107d9d372bb6826bd81d3542a419d6
+MD5,c20ad4d76fe97759aa27a0c99bff6710
+MD5,c9f0f895fb98ab9159f51fd0297e236d
+MD5,d3d9446802a44259755d38e6d163e820
+MD5,e1671797c52e15f763380b45e841ec32
 MD5,e4d909c290d0fb1ca068ffaddf22cbd0
-Filename,invoice_1025.pdf
-Filename,login_details.docx
-Email Address,support@securelogin.online
-Email Address,admin@accountverify.site
+SHA256,01fc5c5fd03b793437ed707233d067b330fb68a2de87e9d8607c6b75caca6356
+SHA256,03c7c0ace395d80182db07ae2c30f03400000000000000000000000000000000
+SHA256,137a6e6f09cb38905ff5c4ffe4b8967a45313d93bf19e03f8abe8238d589fb42
+SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000
+SHA256,182be0c5cdcd5072bb1864cdee4d3d6e00000000000000000000000000000000
+SHA256,1c383cd30b7c298ab50293adfecb7b1800000000000000000000000000000000
+SHA256,1c8bfe8f801c0e1eaf2fcdf1800617c700000000000000000000000000000000
+SHA256,1f3870be274f6c49b3e31a0c6728957f00000000000000000000000000000000
+SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
+SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
+SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
+SHA256,1ff1de774005f8da13f42943881c655f00000000000000000000000000000000
+SHA256,2c1743a391305fbf367df8e4f069f9f9b00000000000000000000000000000000
+SHA256,2e74f6bd9bf73131d3213399ed2f669ec5f75392de69edf8ce8196cd70eb6aee
+SHA256,33fc67b0daaffd81493818df4d58112def65138143cec9bd385ef164bb4ac8ab
+SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
+SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
+SHA256,34173cb38f07f89ddbebc2ac9128303f00000000000000000000000000000000
+SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000
+SHA256,37693cfc748049e45d87b8c7d8b9aacd00000000000000000000000000000000
+SHA256,3b49904b68aedb6031318438ad2ff7be4bf9fd865339330495b177d5c4be69d1
+SHA256,3c59dc048e8850243be8079a5c74d07900000000000000000000000000000000
+SHA256,3c6e0b8a9c15224a8228b9a98ca1531d00000000000000000000000000000000
+SHA256,3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a
+SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
+SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
+SHA256,3ef815416f775098fe977004015c619400000000000000000000000000000000
+SHA256,3f8d9c6b2e7f4a1c9b3e2d8f5a6c7e8d9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c
+SHA256,45c48cce2e2d7fbdea1afc51c7c6ad2600000000000000000000000000000000
+SHA256,4a7d1ed414474e4033ac29ccb8653d9b00000000000000000000000000000000
+SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
+SHA256,4e732ced3463d06de0ca9a15b615367700000000000000000000000000000000
+SHA256,62ab5a28801d2d7d607e591b7b2a1e9ae0bfc83f9ceda8a998e5e397b58623a0
+SHA256,666944b19c707afaa05453909d395f979a267b28ff43d90d143cd36f6b74b53e
+SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000
+SHA256,6b1b36cbb04b41490bfc0ab2bfa26f86e00000000000000000000000000000000
+SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000
+SHA256,6c8349cc7260ae62e3b1396831a8398f00000000000000000000000000000000
+SHA256,6f1ed002ab5595859014ebf0951522d9b0d00000000000000000000000000000
+SHA256,7b8b965ad4bca0e41ab51de7b31363a100000000000000000000000000000000
+SHA256,7e9d8c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b1a0f9e8d
+SHA256,7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c9d0e1f2a3b4c5d6e
+SHA256,86ffd411b42d8d06bdb294f48e79393adeea586c56c5c75c1a68ce6315932881
+SHA256,87138f63974a8ccbbf5840c31165f1a4bf92a954bacccfbf1e7e5525d750aa48
+SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
+SHA256,8e296a067a37563370ded05f5a3bf3ec00000000000000000000000000000000
+SHA256,8f14e45fceea167a5a36dedd4bea254300000000000000000000000000000000
+SHA256,8f14e45fceea167a5a36dedd4bea2543b00000000000000000000000000000000
+SHA256,98f13708210194c475687be6106a6c9d00000000000000000000000000000000
+SHA256,9a1158154dfa42caddbd0694a4e9bdc800000000000000000000000000000000
+SHA256,9ae0ea9e3c9c6e1b9b6252c8395efdc1b00000000000000000000000000000000
+SHA256,9c1185a5c5e9fc54612808977ee8f548b2258d31
+SHA256,9c4e0e5f4e8f2d3c1b2a3a4c5d6e7f8a00000000000000000000000000000000
+SHA256,9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a3d2f5a9e8c1b4c6f8e9a2d3f5e6a7b8c
+SHA256,af912f6f4bea757de772d22f01dc853fc4d7ab228dc5f7b7eab2a93f64855fbe
+SHA256,b60100729de2f468caf686638ad513fe28ce61590d2b0d8db85af9edc5da98f9
+SHA256,c9f0f895fb98ab9159f51fd0297e236d00000000000000000000000000000000
+SHA256,ccac0311b3e3674282d87db9fb8a151c7b11405662159a46dda71039f2200a67
+SHA256,d221bf1318b8c768a6d824e79c9e87b488c1ae632b33848b638e6b2d4c76182b
+SHA256,d3d9446802a44259755d38e6d163e82000000000000000000000000000000000
+SHA256,e1ea0b557c3bda5c1332009628f37299766ac5886dda9aaf6bc902145c41fd10
