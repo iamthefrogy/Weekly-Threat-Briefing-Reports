@@ -3,13 +3,16 @@
 Extract IOCs only from Section "4. Indicators of Compromise (IOCs)" in report .md files,
 and update IOCs.csv with:
   - Minimum columns: Type, Value
+  - A new column: Report (the report file(s) the IOC came from)
   - Plus any extra columns present in the section's table (union across all reports)
+
 Features:
   - Canonicalize values: defanged [.] -> ., (at) -> @, lowercasing where appropriate
   - Validate IPv4; drop invalid addresses
   - Ignore web-asset suffixes for domains/filenames: .html, .htm, .php, .jsp, .asp, .aspx, .js, .css
   - Deduplicate by (Type,Value) after canonicalization
   - Merge rows for the same (Type,Value): keep the most complete set of extra columns
+  - If the same IOC appears in multiple reports, aggregate their filenames in the "Report" column.
   - Supports 2 formats inside Section 4:
       (1) Proper Markdown pipe tables
       (2) Simple "lines" where each row begins with IOC Type followed by its value
@@ -35,8 +38,7 @@ TYPE_MD5 = "MD5"
 TYPE_EMAIL = "Email Address"
 TYPE_FILENAME = "Filename"
 
-MIN_COLUMNS = [TYPE_DOMAIN, TYPE_IP, TYPE_SHA256, TYPE_SHA1, TYPE_MD5, TYPE_EMAIL, TYPE_FILENAME]  # for detection
-MANDATORY_OUTPUT = ["Type", "Value"]
+MANDATORY_OUTPUT = ["Type", "Value", "Report"]
 
 FORBIDDEN_WEB_EXTS = (".html", ".htm", ".php", ".jsp", ".asp", ".aspx", ".js", ".css")
 ALLOWED_FILE_EXTS = (
@@ -110,7 +112,6 @@ def extract_section_4(md_text: str) -> str:
     if not m:
         return ""
     start = m.end()
-    # Look for next numbered heading (### 5. ... or similar)
     m2 = NEXT_HEADING_RE.search(md_text, start)
     end = m2.start() if m2 else len(md_text)
     return md_text[start:end].strip()
@@ -126,29 +127,21 @@ def parse_pipe_tables(block: str) -> List[Dict[str, str]]:
 
     i = 0
     while i < len(lines):
-        # A table typically has two+ lines starting with '|' and second is a separator with ---.
         if "|" in lines[i].strip().lstrip("|"):
-            # try to detect header
             header_line = lines[i].strip()
-            # find separator on next non-empty line
             j = i + 1
             while j < len(lines) and lines[j].strip() == "":
                 j += 1
             if j < len(lines) and re.search(r"\|\s*:?-{3,}", lines[j]):
-                # We have a table
                 headers = [h.strip() for h in header_line.strip("|").split("|")]
-                # advance past separator
                 j += 1
-                # consume body rows until a non-table line
                 while j < len(lines) and "|" in lines[j]:
                     row_vals = [c.strip() for c in lines[j].strip().strip("|").split("|")]
-                    # pad/truncate to headers length
                     if len(row_vals) < len(headers):
                         row_vals += [""] * (len(headers) - len(row_vals))
                     elif len(row_vals) > len(headers):
                         row_vals = row_vals[:len(headers)]
-                    row = dict(zip(headers, row_vals))
-                    rows.append(row)
+                    rows.append(dict(zip(headers, row_vals)))
                     j += 1
                 i = j
                 continue
@@ -159,103 +152,99 @@ def parse_pipe_tables(block: str) -> List[Dict[str, str]]:
 def parse_loose_lines(block: str) -> List[Dict[str, str]]:
     """
     Handle simpler bullet/line formats inside the section, e.g.:
-      Domain `inspectguarantee[.]org` May 2025 Current ...
+      Domain `example[.]com` ...
       SHA256 `abc...` ...
     We reliably capture at least Type, Value.
     """
     rows: List[Dict[str, str]] = []
     for raw in block.splitlines():
         line = raw.strip()
-        if not line or line.startswith(("*", "-", ">")):
-            # Might still contain indicators in description lines, but to keep it precise,
-            # only parse lines that *start* with a known type.
-            pass
-        # Prefer a clear "Type `value`" pattern
-        m = re.match(r"^(Domain|Domain Name|IP|SHA256|SHA1|MD5|Email|Email Address|Filename)\s+`?([^`\s]+)`?(.*)$", line, re.IGNORECASE)
+        if not line:
+            continue
+        m = re.match(r"^(Domain|Domain Name|IP|SHA256|SHA1|MD5|Email|Email Address|Filename)\s+`?([^`\s]+)`?", line, re.IGNORECASE)
         if not m:
             continue
         type_token = m.group(1).lower()
         value_token = m.group(2).strip()
 
-        # Normalize type name to our standard labels
         if type_token in ("domain", "domain name"):
             ioc_type = TYPE_DOMAIN
+            m_dom = RE_DOMAIN.search(value_token) or RE_DOMAIN.search(" " + value_token)
+            if not m_dom:
+                continue
+            val = fang(m_dom.group(0))
+            if endswith_forbidden_web_ext(val):
+                continue
         elif type_token == "ip":
             ioc_type = TYPE_IP
-        elif type_token == "sha256":
-            ioc_type = TYPE_SHA256
-        elif type_token == "sha1":
-            ioc_type = TYPE_SHA1
-        elif type_token == "md5":
-            ioc_type = TYPE_MD5
-        elif type_token in ("email", "email address"):
-            ioc_type = TYPE_EMAIL
-        elif type_token == "filename":
-            ioc_type = TYPE_FILENAME
-        else:
-            continue
-
-        # Validate/clean value
-        val = value_token
-        if ioc_type == TYPE_IP:
-            if not is_valid_ipv4(val):
-                # try defanged in remainder:
+            if not is_valid_ipv4(value_token):
                 m_ip = RE_IP_DEFANGED.search(value_token)
                 if not m_ip or not is_valid_ipv4(m_ip.group(0)):
                     continue
                 val = fang(m_ip.group(0))
-        elif ioc_type == TYPE_DOMAIN:
-            # extract first domain-like token
-            m_dom = RE_DOMAIN.search(value_token) or RE_DOMAIN.search(" " + value_token)
-            if m_dom:
-                val = fang(m_dom.group(0))
-                if endswith_forbidden_web_ext(val):
-                    continue
             else:
+                val = value_token
+        elif type_token == "sha256":
+            ioc_type = TYPE_SHA256
+            m_hash = RE_SHA256.search(value_token)
+            if not m_hash:
                 continue
-        elif ioc_type == TYPE_EMAIL:
+            val = m_hash.group(0).lower()
+        elif type_token == "sha1":
+            ioc_type = TYPE_SHA1
+            m_hash = RE_SHA1.search(value_token)
+            if not m_hash:
+                continue
+            val = m_hash.group(0).lower()
+        elif type_token == "md5":
+            ioc_type = TYPE_MD5
+            m_hash = RE_MD5.search(value_token)
+            if not m_hash:
+                continue
+            val = m_hash.group(0).lower()
+        elif type_token in ("email", "email address"):
+            ioc_type = TYPE_EMAIL
             m_em = RE_EMAIL.search(value_token)
-            if m_em:
-                val = m_em.group(0)
-            else:
+            if not m_em:
                 continue
-        elif ioc_type == TYPE_FILENAME:
-            # allow only certain extensions
+            val = m_em.group(0).lower()
+        elif type_token == "filename":
+            ioc_type = TYPE_FILENAME
             m_fn = RE_FILENAME.search(value_token)
-            if m_fn:
-                val = m_fn.group(0)
-                if endswith_forbidden_web_ext(val):
-                    continue
-            else:
+            if not m_fn:
                 continue
-        elif ioc_type in (TYPE_MD5, TYPE_SHA1, TYPE_SHA256):
-            # hashes from remainder or value token itself
-            m_hash = None
-            if ioc_type == TYPE_MD5:
-                m_hash = RE_MD5.search(value_token)
-            elif ioc_type == TYPE_SHA1:
-                m_hash = RE_SHA1.search(value_token)
-            else:
-                m_hash = RE_SHA256.search(value_token)
-            if m_hash:
-                val = m_hash.group(0)
-            else:
-                # if token already looks like hash, accept it
-                if not (
-                    (ioc_type == TYPE_MD5 and RE_MD5.fullmatch(value_token)) or
-                    (ioc_type == TYPE_SHA1 and RE_SHA1.fullmatch(value_token)) or
-                    (ioc_type == TYPE_SHA256 and RE_SHA256.fullmatch(value_token))
-                ):
-                    continue
+            val = m_fn.group(0).lower()
+            if endswith_forbidden_web_ext(val):
+                continue
+        else:
+            continue
 
-        rows.append({"Type": ioc_type, "Value": val})
+        rows.append({"Type": ioc_type, "Value": normalize_value(ioc_type, val)})
     return rows
 
 # ---------- CSV helpers ----------
+def _split_reports(report_field: str) -> List[str]:
+    """Split a semicolon-separated Report field into unique, trimmed parts."""
+    parts = [p.strip() for p in (report_field or "").split(";") if p.strip()]
+    # Dedup while preserving order
+    seen = set()
+    uniq = []
+    for p in parts:
+        if p not in seen:
+            uniq.append(p)
+            seen.add(p)
+    return uniq
+
+def _merge_report_field(existing: str, new_report: str) -> str:
+    reports = _split_reports(existing) + [new_report]
+    # Dedup + sort for stability
+    reports = sorted(set(reports))
+    return "; ".join(reports)
+
 def load_existing_and_canonicalize(csv_path: Path) -> Tuple[List[Dict[str, str]], Dict[Tuple[str, str], Dict[str, str]]]:
     """
-    Load existing CSV, canonicalize all values (fix defanging, case, invalids),
-    return list of rows and an index map by (Type,Value).
+    Load existing CSV, canonicalize values, keep/merge Report column.
+    Returns existing rows list and index map by (Type, Value).
     """
     rows: List[Dict[str, str]] = []
     index: Dict[Tuple[str, str], Dict[str, str]] = {}
@@ -267,8 +256,8 @@ def load_existing_and_canonicalize(csv_path: Path) -> Tuple[List[Dict[str, str]]
         for row in reader:
             if not row:
                 continue
-            t = row.get("Type", "").strip()
-            v = row.get("Value", "").strip()
+            t = (row.get("Type") or "").strip()
+            v = (row.get("Value") or "").strip()
             if not t or not v:
                 continue
             v_norm = normalize_value(t, v)
@@ -280,17 +269,25 @@ def load_existing_and_canonicalize(csv_path: Path) -> Tuple[List[Dict[str, str]]
             if t == TYPE_FILENAME and endswith_forbidden_web_ext(v_norm):
                 continue
 
-            # Canonicalize row fields
-            row_canon = {k: (normalize_value(t, v) if k == "Value" else v2) for k, v2 in row.items()}
-            row_canon["Type"] = t  # keep canonical label
+            # Canonicalize row
+            row_canon = dict(row)
+            row_canon["Type"] = t
             row_canon["Value"] = v_norm
+            # Keep Report (canonicalize by file name only; assume it's already plain)
+            report_field = (row.get("Report") or "").strip()
+            if report_field:
+                row_canon["Report"] = "; ".join(sorted(set(_split_reports(report_field))))
+            else:
+                row_canon["Report"] = ""
 
             key = (t, v_norm)
             prev = index.get(key)
             if prev:
-                # Merge: keep fields that are non-empty; prefer longer value text if conflict
+                # Merge: prefer non-empty fields; merge Report
+                if row_canon.get("Report"):
+                    prev["Report"] = _merge_report_field(prev.get("Report",""), row_canon["Report"])
                 for k, v2 in row_canon.items():
-                    if k in ("Type", "Value"):
+                    if k in ("Type", "Value", "Report"):
                         continue
                     if v2 and not prev.get(k):
                         prev[k] = v2
@@ -306,7 +303,7 @@ def union_headers(existing_headers: List[str], new_headers: List[str]) -> List[s
             out.append(h)
     return out
 
-# ---------- Main extraction ----------
+# ---------- Files to process ----------
 def iter_markdown_files(args: List[str]) -> Iterable[Path]:
     if args:
         for p in args:
@@ -314,23 +311,22 @@ def iter_markdown_files(args: List[str]) -> Iterable[Path]:
             if path.suffix.lower() == ".md" and path.exists():
                 yield path
         return
-    # else scan all
     for p in REPO_ROOT.rglob("*.md"):
         yield p
 
+# ---------- Main ----------
 def main(argv: List[str]) -> int:
-    # Load and canonicalize existing CSV
     existing_rows, index = load_existing_and_canonicalize(CSV_PATH)
-    # Build header union (start with mandatory)
-    header: List[str] = ["Type", "Value"]
+    # Start header with mandatory fields
+    header: List[str] = MANDATORY_OUTPUT[:]
     for r in existing_rows:
-        header = union_headers(header, [h for h in r.keys() if h not in header])
+        header = union_headers(header, [k for k in r.keys() if k not in header])
 
-    # Process markdowns passed from workflow (or all)
     md_files = list(iter_markdown_files(argv))
     new_or_updated = 0
 
     for md in md_files:
+        report_name = md.name  # e.g., "21-Oct-2025.md"
         try:
             text = md.read_text(encoding="utf-8", errors="ignore")
         except Exception:
@@ -340,65 +336,57 @@ def main(argv: List[str]) -> int:
         if not sec:
             continue
 
-        # First, try to parse pipe tables to collect rich columns.
+        # ---- Prefer pipe tables for rich columns ----
         table_rows = parse_pipe_tables(sec)
         parsed_any = False
 
         for tr in table_rows:
-            # Normalize header names: strip, collapse spaces
             norm = { (k or "").strip(): (v or "").strip() for k, v in tr.items() }
-            # Require at least Type and a value-like column
-            # Try common column names for value
-            # (The sample shows "Type Value First Seen (UTC)...")
-            keys = list(norm.keys())
             if "Type" not in norm:
                 continue
 
-            # Find the column holding the IOC value
+            # Identify value column
             value_col = None
             for cand in ["Value", "Indicator", "IOC", "Indicator Value"]:
                 if cand in norm and norm[cand]:
                     value_col = cand
                     break
             if not value_col:
-                # Heuristic: if there's a column with a domain/IP/hash-looking token, use it
-                for k in keys:
-                    if k.lower() in ("type",):
+                # Heuristic fallback: pick first non-Type non-empty column
+                for k, v in norm.items():
+                    if k.lower() == "type":
                         continue
-                    if norm.get(k):
+                    if v:
                         value_col = k
                         break
             if not value_col:
                 continue
 
-            ioc_type = norm["Type"].strip()
-            # Canonicalize label
-            lower = ioc_type.lower()
-            if lower in ("domain", "domain name"):
+            # Normalize type label
+            ioc_type_raw = norm["Type"].strip().lower()
+            if ioc_type_raw in ("domain", "domain name"):
                 ioc_type = TYPE_DOMAIN
-            elif lower == "ip":
+            elif ioc_type_raw == "ip":
                 ioc_type = TYPE_IP
-            elif lower == "sha256":
+            elif ioc_type_raw == "sha256":
                 ioc_type = TYPE_SHA256
-            elif lower == "sha1":
+            elif ioc_type_raw == "sha1":
                 ioc_type = TYPE_SHA1
-            elif lower == "md5":
+            elif ioc_type_raw == "md5":
                 ioc_type = TYPE_MD5
-            elif lower in ("email", "email address"):
+            elif ioc_type_raw in ("email", "email address"):
                 ioc_type = TYPE_EMAIL
-            elif lower == "filename":
+            elif ioc_type_raw == "filename":
                 ioc_type = TYPE_FILENAME
             else:
-                # Unknown type — skip
                 continue
 
             raw_val = norm.get(value_col, "")
             if not raw_val:
                 continue
 
-            # Try to extract a clean value from the cell (could contain backticks or text)
+            # Extract clean value from the cell
             val = raw_val.strip("` ").strip()
-            # If the cell includes extra words, try more precise extractors
             if ioc_type == TYPE_IP:
                 if not is_valid_ipv4(val):
                     m = RE_IP_DEFANGED.search(raw_val)
@@ -430,9 +418,8 @@ def main(argv: List[str]) -> int:
                     continue
                 val = m.group(0).lower()
 
-            # Canonicalize
             val = normalize_value(ioc_type, val)
-            # Validate filters again
+            # Filters again
             if ioc_type == TYPE_IP and not is_valid_ipv4(val):
                 continue
             if ioc_type == TYPE_DOMAIN and endswith_forbidden_web_ext(val):
@@ -440,24 +427,22 @@ def main(argv: List[str]) -> int:
             if ioc_type == TYPE_FILENAME and endswith_forbidden_web_ext(val):
                 continue
 
-            # Build row with arbitrary extra columns
-            row = {"Type": ioc_type, "Value": val}
-            # Add all other columns from the table row
+            row = {"Type": ioc_type, "Value": val, "Report": report_name}
+            # carry extra columns from the table row
             for k, v in norm.items():
                 if k in ("Type", value_col):
                     continue
-                if not v:
-                    continue
-                row[k] = v.strip()
+                if v:
+                    row[k] = v.strip()
 
-            # Merge into index
             key = (ioc_type, val)
             if key in index:
                 existing = index[key]
-                # Prefer non-empty fields; keep the richest row
+                # Merge: Reports aggregated; prefer richer fields
+                existing["Report"] = _merge_report_field(existing.get("Report",""), report_name)
                 changed = False
                 for k, v in row.items():
-                    if k in ("Type", "Value"):
+                    if k in ("Type", "Value", "Report"):
                         continue
                     if v and not existing.get(k):
                         existing[k] = v
@@ -470,15 +455,14 @@ def main(argv: List[str]) -> int:
                 new_or_updated += 1
 
             # Expand header union
-            header_candidates = ["Type", "Value"] + [k for k in row.keys() if k not in ("Type", "Value")]
-            header = union_headers(header, header_candidates)
+            header = union_headers(header, [h for h in row.keys() if h not in header])
             parsed_any = True
 
-        # If no pipe-table parsed, fall back to line-based parsing
+        # ---- If no pipe tables parsed, fall back to loose line parsing ----
         if not parsed_any:
             loose_rows = parse_loose_lines(sec)
             for row in loose_rows:
-                t, v = row["Type"], normalize_value(row["Type"], row["Value"])
+                t, v = row["Type"], row["Value"]
                 if t == TYPE_IP and not is_valid_ipv4(v):
                     continue
                 if t == TYPE_DOMAIN and endswith_forbidden_web_ext(v):
@@ -486,24 +470,32 @@ def main(argv: List[str]) -> int:
                 if t == TYPE_FILENAME and endswith_forbidden_web_ext(v):
                     continue
                 key = (t, v)
-                if key not in index:
-                    index[key] = {"Type": t, "Value": v}
-                    existing_rows.append(index[key])
+                if key in index:
+                    # just add this report name to 'Report'
+                    index[key]["Report"] = _merge_report_field(index[key].get("Report",""), report_name)
+                else:
+                    # only mandatory columns available in loose-line mode
+                    new_row = {"Type": t, "Value": v, "Report": report_name}
+                    index[key] = new_row
+                    existing_rows.append(new_row)
                     new_or_updated += 1
-                # header remains ["Type","Value"] for loose lines
 
-    # Compose final header (always ensure mandatory first)
-    # Keep mandatory first, then others in encountered order
+    # Compose final header (ensure mandatory fields first)
     final_header = []
     for m in MANDATORY_OUTPUT:
         if m in header:
             final_header.append(m)
+        else:
+            final_header.append(m)  # ensure it's present even if never seen
     for h in header:
         if h not in final_header:
             final_header.append(h)
 
-    # Sort rows for stability by (Type, Value) case-insensitive
-    existing_rows_sorted = sorted(existing_rows, key=lambda r: (r.get("Type","").lower(), r.get("Value","").lower()))
+    # Sort rows by (Type, Value) for stability
+    existing_rows_sorted = sorted(
+        existing_rows,
+        key=lambda r: (r.get("Type","").lower(), r.get("Value","").lower())
+    )
 
     # Write CSV
     with CSV_PATH.open("w", newline="", encoding="utf-8") as f:
