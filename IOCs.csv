@@ -1,44 +1,4 @@
 Type,Value
-Domain Name,-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
-Domain Name,-addressed-a-maximum-severity-flaw-in-goanywhere-mft-software.html
-Domain Name,-aerospace-disrupted-operations-at-major-european-airports.html
-Domain Name,-agency-enisa-says-ransomware-attack-behind-airport-disruptions.html
-Domain Name,-and-sudo-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Domain Name,-botnet-targets-56-flaws-across-30-device-types-worldwide.html
-Domain Name,-chromium-flaw-to-its-known-exploited-vulnerabilities-catalog.html
-Domain Name,-claims-to-have-breached-red-hat-s-private-github-repositories.html
-Domain Name,-confirms-cyberattack-exposed-ids-passports-in-june-incident.html
-Domain Name,-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html
-Domain Name,-customers-to-new-data-breach-linked-to-third-party-provider.html
-Domain Name,-discloses-a-data-breach-impacting-over-1-2-million-people.html
-Domain Name,-discloses-third-party-breach-affecting-customer-support-data.html
-Domain Name,-expose-malware-and-zero-day-behind-oracle-ebs-extortion.html
-Domain Name,-fixed-a-critical-rce-flaw-in-its-web-help-desk-software.html
-Domain Name,-founder-to-3-years-for-cybercrime-and-possession-of-csam.html
-Domain Name,-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html
-Domain Name,-ie-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Domain Name,-in-5-5b-crypto-fraud-marks-worlds-largest-bitcoin-seizure.html
-Domain Name,-in-salesforce-agentforce-exposes-crm-data-via-prompt-injection.html
-Domain Name,-kansiossa-on-ollut-liian-laajat-kayttooikeudet.html
-Domain Name,-members-linked-to-the-2024-attack-on-transport-for-london.html
-Domain Name,-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html
-Domain Name,-of-cl0p-extortion-campaign-against-oracle-e-business-users.html
-Domain Name,-on-jaguar-land-rover-inflicts-2-5b-loss-on-uk-economy.html
-Domain Name,-online-sales-after-a-ransomware-attack-on-logistics-partner.html
-Domain Name,-oracle-ebs-rce-cve-2025-61882-to-cl0p-attacks-began-aug-9-2025.html
-Domain Name,-resentenced-former-breachforums-admin-to-three-years-in-prison.html
-Domain Name,-revamps-internet-explorer-mode-in-edge-after-august-attacks.html
-Domain Name,-sensitive-uk-mod-files-including-info-on-eight-military-bases.html
-Domain Name,-source-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Domain Name,-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html
-Domain Name,-teamed-up-to-dismantle-the-raccoono365-phishing-service.html
-Domain Name,-teens-arrested-for-spying-on-behalf-of-pro-russian-hackers.html
-Domain Name,-think-tanks-and-academics-tied-to-us-china-trade-and-policy.html
-Domain Name,-to-reset-credentials-after-mysonicwall-backups-were-exposed.html
-Domain Name,-uncovers-gamaredon-turla-collaboration-in-ukraine-cyberattacks.html
-Domain Name,-union-county-suffers-ransomware-attack-impacting-45000-people.html
-Domain Name,-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html
-Domain Name,13-year-redis-flaw-exposed-cvss-100.html
 Domain Name,accountaccess.org
 Domain Name,accountportal.org
 Domain Name,accountportalverify.org
@@ -56,24 +16,13 @@ Domain Name,accountupdate.com
 Domain Name,accountupdate.org
 Domain Name,accountupdateportal.org
 Domain Name,accountverify.org
-Domain Name,accountverify[.]site
+Domain Name,accountverify.site
 Domain Name,accountverifyportal.org
 Domain Name,adsemail.com
 Domain Name,adsmarks.com
-Domain Name,akira-ransomware-bypasses-mfa-on-sonicwall-vpns.html
-Domain Name,alert-cve-2025-61882.html
-Domain Name,alert-cve-2025-61884.html
-Domain Name,apple-backports-fix-for-actively-exploited-cve-2025-43300.html
-Domain Name,apple-backports-fix-for-cve-2025-43300.html
-Domain Name,apsb25-88.html
-Domain Name,apt36-targets-indian-government-with.html
 Domain Name,arcticwolf.com
 Domain Name,arstechnica.com
-Domain Name,art-2000011532682.html
-Domain Name,astaroth-banking-trojan-abuses-github.html
-Domain Name,badiis-malware-spreads-via-seo.html
-Domain Name,beware-github-repos-distributing-atomic-infostealer-on-macos.html
-Domain Name,Bitnob.com
+Domain Name,bitnob.com
 Domain Name,bleepingcomputer.com
 Domain Name,blog.eclecticiq.com
 Domain Name,blog.lastpass.com
@@ -81,91 +30,57 @@ Domain Name,blog.nviso.eu
 Domain Name,blog.talosintelligence.com
 Domain Name,blog.virustotal.com
 Domain Name,blogs.infoblox.com
-Domain Name,broadcom-patches-vmware-zero-day-actively-exploited-by-unc5174.html
-Domain Name,captchanom[.]top
+Domain Name,captchanom.top
 Domain Name,carbonblack.exe
-Domain Name,Cargo.toml
+Domain Name,cargo.toml
 Domain Name,ccb.belgium.be
-Domain Name,CERT.at
-Domain Name,CERT.be
+Domain Name,cert.at
+Domain Name,cert.be
 Domain Name,certutil.exe
 Domain Name,checkme.dll
-Domain Name,china-linked-plugx-and-bookworm-malware.html
-Domain Name,chinese-ta415-uses-vs-code-remote.html
 Domain Name,chintangurjar.com
 Domain Name,chrome.exe
-Domain Name,cisa-sounds-alarm-on-critical-sudo-flaw.html
-Domain Name,cisa-warns-of-malware-deployed-through-ivanti-epmm-flaws.html
-Domain Name,cisa-warns-of-two-malware-strains.html
 Domain Name,cisa.gov
-Domain Name,cisco-asa-firewall-zero-day-exploits.html
-Domain Name,cl0p-linked-hackers-breach-dozens-of.html
-Domain Name,clop-ransomware-group-claims-the-hack-of-harvard-university.html
 Domain Name,cloud.google.com
 Domain Name,cmd.exe
-Domain Name,co-op-leaves-shelves-empty-data-stolen-and-275m-in-lost-revenue.html
-Domain Name,comicform-and-sectorj149-hackers-deploy.html
-Domain Name,confucius-hackers-hit-pakistan-with-new.html
 Domain Name,crates.io
-Domain Name,critical-lanscope-endpoint-manager-bug.html
-Domain Name,Crypto.com
+Domain Name,crypto.com
 Domain Name,cyber.gc.ca
 Domain Name,cyberscoop.com
 Domain Name,cybersecuritydive.com
 Domain Name,darkreading.com
-Domain Name,data-stolen-in-unity-technologiess-speedtree-website-compromise.html
 Domain Name,databreach.com
 Domain Name,databreaches.net
 Domain Name,destination.domain
 Domain Name,dirkjanm.io
 Domain Name,discord.com
-Domain Name,dropbox-fileshare[.]net
+Domain Name,dropbox-fileshare.net
 Domain Name,dt1.automotosport.net
-Domain Name,EDR-Freeze-Puts-EDRs-Antivirus-Into-Coma.html
-Domain Name,europol-dismantles-sim-farm-network.html
-Domain Name,experts-warn-of-widespread-sonicwall.html
 Domain Name,explorer.exe
-Domain Name,fbi-alerts-public-to-spoofed-ic3-site-used-in-fraud-schemes.html
 Domain Name,feeds.fortinet.com
 Domain Name,firefox.exe
-Domain Name,first-malicious-mcp-server-found.html
-Domain Name,five-new-exploited-bugs-land-in-cisas.html
-Domain Name,fortra-releases-critical-patch-for-cvss.html
-Domain Name,from-detection-to-patch-fortra-reveals.html
-Domain Name,from-lfi-to-rce-active-exploitation.html
-Domain Name,from-quantum-hacks-to-ai-defenses.html
 Domain Name,gbhackers.com
-Domain Name,github-mandates-2fa-and-short-lived.html
 Domain Name,github.com
 Domain Name,gmail.com
 Domain Name,go.theregister.com
-Domain Name,google-identifies-three-new-russian.html
-Domain Name,google-mandiant-probes-new-oracle.html
 Domain Name,googleprojectzero.blogspot.com
 Domain Name,govcert.gov.hk
-Domain Name,GovCERT.HK
-Domain Name,hackers-exploit-pandoc-cve-2025-51591.html
-Domain Name,hackers-used-snappybee-malware-and.html
-Domain Name,hacking-electronic-safes.html
+Domain Name,govcert.hk
 Domain Name,hackread.com
 Domain Name,helper.py
 Domain Name,helpx.adobe.com
-Domain Name,hit-adobe-commerce-and-magento-via-critical-cve-2025-54236-flaw.html
 Domain Name,hkcert.org
 Domain Name,http.request.method
 Domain Name,iamnotarobot.dll
 Domain Name,infosecurity-magazine.com
-Domain Name,inspectguarantee[.]org
+Domain Name,inspectguarantee.org
 Domain Name,intlspring.com
-Domain Name,IS.fi
+Domain Name,is.fi
 Domain Name,jfrog.com
-Domain Name,juniper-patched-nine-critical-flaws-in-junos-space.html
 Domain Name,koreajoongangdaily.joins.com
 Domain Name,krebsonsecurity.com
 Domain Name,labs.watchtowr.com
-Domain Name,lastpass-warns-of-fake-repositories.html
-Domain Name,lockbit-5-targets-windows-linux-esxi.html
-Domain Name,login-verification[.]org
+Domain Name,login-verification.org
 Domain Name,loginaccessportal.com
 Domain Name,loginaccessupdate.com
 Domain Name,loginaccessverify.com
@@ -186,76 +101,45 @@ Domain Name,loginverifyrestore.com
 Domain Name,loginverifyupdate.com
 Domain Name,machinerie.dll
 Domain Name,mailaccess.org
-Domain Name,mailaccess[.]tech
+Domain Name,mailaccess.tech
 Domain Name,mailupdate.org
 Domain Name,mailupdateaccess.net
 Domain Name,mailverifyaccess.net
-Domain Name,mainnet[.]solana-rpc-pool[.]workers[.]dev
-Domain Name,malicious-rust-crates-steal-solana-and.html
+Domain Name,mainnet.solana-rpc-pool.workers.dev
 Domain Name,malicious.your-domain.com
 Domain Name,malwarebytes.com
-Domain Name,microsoft-flags-ai-driven-phishing-llm.html
-Domain Name,microsoft-issues-emergency-patch-for.html
-Domain Name,microsoft-links-storm-1175-to.html
-Domain Name,microsoft-locks-down-ie-mode-after.html
-Domain Name,microsoft-patches-critical-entra-id.html
-Domain Name,microsoft-warns-of-payroll-pirates.html
 Domain Name,msedge.exe
-Domain Name,msgreceivedalert[.]com
+Domain Name,msgreceivedalert.com
 Domain Name,msiexec.exe
-Domain Name,mss-claims-nsa-used-42-cyber-tools-in.html
-Domain Name,MsSense.exe
-Domain Name,MySonicWall.com
-Domain Name,new-oracle-e-business-suite-bug-could.html
-Domain Name,new-rust-based-malware-chaosbot-hijacks.html
+Domain Name,mssense.exe
+Domain Name,mysonicwall.com
 Domain Name,news.sophos.com
 Domain Name,node.exe
-Domain Name,Node.js
-Domain Name,north-korean-hackers-lure-defense.html
-Domain Name,npm-pypi-and-rubygems-packages-found.html
 Domain Name,npm.exe
 Domain Name,npmjs.com
 Domain Name,offenders...was
-Domain Name,officedocdrivecloudfile[.]com
-Domain Name,onedrive-backup[.]info
-Domain Name,openai-disrupts-russian-north-korean.html
-Domain Name,oracle-ebs-under-fire-as-cl0p-exploits.html
-Domain Name,oracle-rushes-patch-for-cve-2025-61882.html
-Domain Name,over-250-magento-stores-hit-overnight.html
-Domain Name,owa-outlookaccess-login[.]us
+Domain Name,officedocdrivecloudfile.com
+Domain Name,onedrive-backup.info
+Domain Name,owa-outlookaccess-login.us
 Domain Name,package-lock.json
 Domain Name,package.json
-Domain Name,pastebin[.]com
+Domain Name,pastebin.com
 Domain Name,pe.exports
-Domain Name,phantom-taurus-new-china-linked-hacker.html
-Domain Name,pointer-leaks-through-pointer-keyed.html
 Domain Name,powershell.exe
 Domain Name,psexec.exe
 Domain Name,psexec.py
-Domain Name,raccoono365-phishing-network-shut-down.html
-Domain Name,reading-the-enisa-threat-landscape-2025-report.html
 Domain Name,redcanary.com
 Domain Name,reliaquest.com
 Domain Name,research.checkpoint.com
-Domain Name,researchers-disclose-google-gemini-ai.html
-Domain Name,researchers-expose-malterminal-an-llm-enabled-malware-pioneer.html
-Domain Name,researchers-expose-ta585s-monsterv2.html
-Domain Name,researchers-uncover-gpt-4-powered.html
-Domain Name,researchers-uncover-watchguard-vpn-bug.html
-Domain Name,rethinking-ai-data-security-buyers-guide.html
 Domain Name,reuters.com
 Domain Name,ria.ee
 Domain Name,rundll32.exe
-Domain Name,russian-hackers-gamaredon-and-turla.html
-Domain Name,salesforce-patches-critical-forcedleak.html
-Domain Name,scattered-spider-resurfaces-with.html
 Domain Name,scworld.com
 Domain Name,sec.cloudapps.cisco.com
-Domain Name,secure-ftd-flaws-to-its-known-exploited-vulnerabilities-catalog.html
 Domain Name,secureaccess.net
 Domain Name,securelist.com
-Domain Name,securelogin[.]cloud
-Domain Name,securelogin[.]online
+Domain Name,securelogin.cloud
+Domain Name,securelogin.online
 Domain Name,secureloginportal.com
 Domain Name,secureloginupdate.com
 Domain Name,securemailaccess.net
@@ -276,52 +160,35 @@ Domain Name,securemailverifyaccess.net
 Domain Name,securemailverifyaccess.net
 Domain Name,securemailverifyupdate.net
 Domain Name,secureupdate.net
-Domain Name,security-update-to-fix-new-e-business-suite-flaw-cve-2025-61884.html
 Domain Name,securityaffairs.com
 Domain Name,securityboulevard.com
 Domain Name,securityweek.com
-Domain Name,shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html
-Domain Name,shadowleak-zero-click-flaw-leaks-gmail.html
 Domain Name,socket.dev
-Domain Name,solarwinds-releases-hotfix-for-critical.html
-Domain Name,sonicwall-urges-password-resets-after.html
 Domain Name,source.ip
-Domain Name,southprovesolutions[.]com
-Domain Name,staffvirtual[.]website
-Domain Name,state-sponsored-hackers-exploiting.html
-Domain Name,stealit-malware-abuses-nodejs-single.html
+Domain Name,southprovesolutions.com
+Domain Name,staffvirtual.website
 Domain Name,svchost.exe
-Domain Name,system-healthadv[.]com
-Domain Name,ta558-uses-ai-generated-scripts-to.html
-Domain Name,targets-european-defense-firms-in-uav-themed-operation-dreamjob.html
-Domain Name,Teams.exe
-Domain Name,tech-overtakes-gaming-as-top-ddos.html
+Domain Name,system-healthadv.com
+Domain Name,teams.exe
 Domain Name,tenable.com
-Domain Name,TH-DD-Mon-YYYY.md
+Domain Name,th-dd-mon-yyyy.md
 Domain Name,thedfirreport.com
 Domain Name,thehackernews.com
 Domain Name,therecord.media
 Domain Name,theregister.com
 Domain Name,tools.cisco.com
-Domain Name,two-new-supermicro-bmc-bugs-allow.html
-Domain Name,uk-arrest-two-teen-scattered-spider.html
-Domain Name,uk-police-just-seized-55-billion-in.html
-Domain Name,unc5221-uses-brickstorm-backdoor-to.html
 Domain Name,unit42.paloaltonetworks.com
-Domain Name,update-microsoft[.]com
-Domain Name,urgent-china-linked-hackers-exploit-new.html
-Domain Name,urgent-cisco-asa-zero-day-duo-under.html
+Domain Name,update-microsoft.com
 Domain Name,url.path
 Domain Name,verifyaccount.org
 Domain Name,verifylogin.org
-Domain Name,VGAuthService.exe
-Domain Name,virustotal-success-stories-seqrite.html
+Domain Name,vgauthservice.exe
 Domain Name,vssadmin.exe
-Domain Name,Vulnerabilities...Allowed
+Domain Name,vulnerabilities...allowed
 Domain Name,w3wp.exe
 Domain Name,webhook.site
 Domain Name,welivesecurity.com
-Domain Name,WerFault.exe
+Domain Name,werfault.exe
 Domain Name,wermgr.exe
 Domain Name,wmiexec.exe
 Domain Name,wmiexec.py
@@ -372,7 +239,6 @@ Domain Name,yarn.lock
 Domain Name,yle.fi
 Domain Name,zensec.co.uk
 Domain Name,zerosalarium.com
-Domain Name,zimbra-zero-day-exploited-to-target.html
 Email Address,admin@accountupdate.com
 Email Address,admin@accountverify.site
 Email Address,admin@loginaccessportal.com
@@ -400,6 +266,7 @@ Email Address,billordowiyi@gmail.com
 Email Address,help@securemailaccess.net
 Email Address,info@loginportal.com
 Email Address,info@mailupdateaccess.net
+Email Address,janedu0216@gmail.com
 Email Address,support@loginrestoreupdate.com
 Email Address,support@loginupdateaccess.com
 Email Address,support@loginupdateaccess.com
@@ -421,89 +288,22 @@ Email Address,support@securemailupdateportal.net
 Email Address,support@securemailverify.net
 Email Address,support@securemailverifyaccess.net
 Email Address,support@securemailverifyupdate.net
-Filename, OR wmiexec.exe
-Filename,13-year-redis-flaw-exposed-cvss-100.html
-Filename,a-cyberattack-on-collins-aerospace-disrupted-operations-at-major-european-airports.html
 Filename,account_login_form.docx
-Filename,akira-ransomware-bypasses-mfa-on-sonicwall-vpns.html
-Filename,alert-cve-2025-61882.html
-Filename,alert-cve-2025-61884.html
-Filename,apple-backports-fix-for-actively-exploited-cve-2025-43300.html
-Filename,apple-backports-fix-for-cve-2025-43300.html
-Filename,apsb25-88.html
-Filename,apt36-targets-indian-government-with.html
-Filename,art-2000011532682.html
-Filename,astaroth-banking-trojan-abuses-github.html
-Filename,badiis-malware-spreads-via-seo.html
-Filename,beware-github-repos-distributing-atomic-infostealer-on-macos.html
-Filename,broadcom-patches-vmware-zero-day-actively-exploited-by-unc5174.html
 Filename,carbonblack.exe
 Filename,certutil.exe
 Filename,checkme.dll
-Filename,china-linked-apt41-targets-government-think-tanks-and-academics-tied-to-us-china-trade-and-policy.html
-Filename,china-linked-plugx-and-bookworm-malware.html
-Filename,chinese-ta415-uses-vs-code-remote.html
 Filename,chrome.exe
-Filename,cisa-sounds-alarm-on-critical-sudo-flaw.html
-Filename,cisa-warns-of-malware-deployed-through-ivanti-epmm-flaws.html
-Filename,cisa-warns-of-two-malware-strains.html
-Filename,cisco-asa-firewall-zero-day-exploits.html
-Filename,cisco-fixed-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
-Filename,cl0p-linked-hackers-breach-dozens-of.html
-Filename,clop-ransomware-group-claims-the-hack-of-harvard-university.html
 Filename,cmd.exe
-Filename,comicform-and-sectorj149-hackers-deploy.html
-Filename,confucius-hackers-hit-pakistan-with-new.html
 Filename,credentials_backup.zip
-Filename,critical-lanscope-endpoint-manager-bug.html
-Filename,crowdstrike-ties-oracle-ebs-rce-cve-2025-61882-to-cl0p-attacks-began-aug-9-2025.html
-Filename,customer-payment-data-stolen-in-unity-technologiess-speedtree-website-compromise.html
-Filename,cyberattack-on-co-op-leaves-shelves-empty-data-stolen-and-275m-in-lost-revenue.html
-Filename,cyberattack-on-jaguar-land-rover-inflicts-2-5b-loss-on-uk-economy.html
-Filename,cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html
-Filename,discord-discloses-third-party-breach-affecting-customer-support-data.html
-Filename,doj-resentenced-former-breachforums-admin-to-three-years-in-prison.html
-Filename,doj-resentences-breachforums-founder-to-3-years-for-cybercrime-and-possession-of-csam.html
-Filename,dutch-teens-arrested-for-spying-on-behalf-of-pro-russian-hackers.html
-Filename,EDR-Freeze-Puts-EDRs-Antivirus-Into-Coma.html
-Filename,eset-uncovers-gamaredon-turla-collaboration-in-ukraine-cyberattacks.html
-Filename,eu-agency-enisa-says-ransomware-attack-behind-airport-disruptions.html
-Filename,europol-dismantles-sim-farm-network.html
-Filename,experts-warn-of-widespread-sonicwall.html
 Filename,explorer.exe
-Filename,fbi-alerts-public-to-spoofed-ic3-site-used-in-fraud-schemes.html
 Filename,firefox.exe
-Filename,first-malicious-mcp-server-found.html
-Filename,five-new-exploited-bugs-land-in-cisas.html
-Filename,forcedleak-flaw-in-salesforce-agentforce-exposes-crm-data-via-prompt-injection.html
-Filename,fortra-addressed-a-maximum-severity-flaw-in-goanywhere-mft-software.html
-Filename,fortra-releases-critical-patch-for-cvss.html
-Filename,from-detection-to-patch-fortra-reveals.html
-Filename,from-lfi-to-rce-active-exploitation.html
-Filename,from-quantum-hacks-to-ai-defenses.html
-Filename,github-mandates-2fa-and-short-lived.html
-Filename,goanywhere-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html
-Filename,google-identifies-three-new-russian.html
-Filename,google-mandiant-expose-malware-and-zero-day-behind-oracle-ebs-extortion.html
-Filename,google-mandiant-probes-new-oracle.html
-Filename,google-warns-of-cl0p-extortion-campaign-against-oracle-e-business-users.html
-Filename,hackers-exploit-pandoc-cve-2025-51591.html
-Filename,hackers-used-snappybee-malware-and.html
-Filename,hacking-electronic-safes.html
-Filename,harrods-alerts-customers-to-new-data-breach-linked-to-third-party-provider.html
 Filename,iamnotarobot.dll
 Filename,invoice_1025.pdf
 Filename,invoice_1026.pdf
-Filename,japanese-retailer-muji-halted-online-sales-after-a-ransomware-attack-on-logistics-partner.html
-Filename,juniper-patched-nine-critical-flaws-in-junos-space.html
-Filename,lastpass-warns-of-fake-repositories.html
-Filename,lazarus-targets-european-defense-firms-in-uav-themed-operation-dreamjob.html
 Filename,legit_app.exe
-Filename,lockbit-5-targets-windows-linux-esxi.html
 Filename,login_backup_form.docx
 Filename,login_credentials.docx
 Filename,login_details.docx
-Filename,login_form.html
 Filename,login_form_backup.docx
 Filename,login_form_recovery.docx
 Filename,login_form_restore.docx
@@ -522,25 +322,10 @@ Filename,login_form_restore.docx
 Filename,login_form_restore.docx
 Filename,login_form_update.docx
 Filename,machinerie.dll
-Filename,malicious-rust-crates-steal-solana-and.html
-Filename,microsoft-and-cloudflare-teamed-up-to-dismantle-the-raccoono365-phishing-service.html
-Filename,microsoft-flags-ai-driven-phishing-llm.html
-Filename,microsoft-issues-emergency-patch-for.html
-Filename,microsoft-links-storm-1175-to.html
-Filename,microsoft-locks-down-ie-mode-after.html
-Filename,microsoft-patches-critical-entra-id.html
-Filename,microsoft-revamps-internet-explorer-mode-in-edge-after-august-attacks.html
-Filename,microsoft-warns-of-payroll-pirates.html
 Filename,msedge.exe
 Filename,msiexec.exe
-Filename,mss-claims-nsa-used-42-cyber-tools-in.html
-Filename,MsSense.exe
-Filename,New Stealit Campaign Abuses Node.js
-Filename,new-oracle-e-business-suite-bug-could.html
-Filename,new-rust-based-malware-chaosbot-hijacks.html
+Filename,mssense.exe
 Filename,node.exe
-Filename,north-korean-hackers-lure-defense.html
-Filename,npm-pypi-and-rubygems-packages-found.html
 Filename,npm.exe
 Filename,oct13_patch_update.exe
 Filename,oct21_patch_update.exe
@@ -549,33 +334,10 @@ Filename,oct23_patch_update.exe
 Filename,oct26_patch_update.exe
 Filename,oct9_security_patch.exe
 Filename,oct_patch_update.exe
-Filename,ohios-union-county-suffers-ransomware-attack-impacting-45000-people.html
-Filename,openai-disrupts-russian-north-korean.html
-Filename,oracle-ebs-under-fire-as-cl0p-exploits.html
-Filename,oracle-issued-an-emergency-security-update-to-fix-new-e-business-suite-flaw-cve-2025-61884.html
-Filename,oracle-patches-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html
-Filename,oracle-rushes-patch-for-cve-2025-61882.html
-Filename,over-250-attacks-hit-adobe-commerce-and-magento-via-critical-cve-2025-54236-flaw.html
-Filename,over-250-magento-stores-hit-overnight.html
-Filename,phantom-taurus-new-china-linked-hacker.html
-Filename,pointer-leaks-through-pointer-keyed.html
+Filename,or wmiexec.exe
 Filename,powershell.exe
 Filename,psexec.exe
-Filename,raccoono365-phishing-network-shut-down.html
-Filename,reading-the-enisa-threat-landscape-2025-report.html
-Filename,researchers-disclose-google-gemini-ai.html
-Filename,researchers-expose-malterminal-an-llm-enabled-malware-pioneer.html
-Filename,researchers-expose-ta585s-monsterv2.html
-Filename,researchers-uncover-gpt-4-powered.html
-Filename,researchers-uncover-watchguard-vpn-bug.html
-Filename,rethinking-ai-data-security-buyers-guide.html
-Filename,riihimaen-kaupungin-sisaisen-verkon-tiedostopalvelimen-kansiossa-on-ollut-liian-laajat-kayttooikeudet.html
-Filename,rondodox-botnet-targets-56-flaws-across-30-device-types-worldwide.html
 Filename,rundll32.exe
-Filename,russian-hackers-gamaredon-and-turla.html
-Filename,russian-lynk-group-leaks-sensitive-uk-mod-files-including-info-on-eight-military-bases.html
-Filename,salesforce-patches-critical-forcedleak.html
-Filename,scattered-spider-resurfaces-with.html
 Filename,security_patch_oct.exe
 Filename,sep17_patch_update.exe
 Filename,sep18_patch_update.exe
@@ -589,53 +351,22 @@ Filename,sep26_patch_update.exe
 Filename,sep28_patch_update.exe
 Filename,sep28_patch_update.exe
 Filename,sep29_patch_update.exe
-Filename,shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html
-Filename,shadowleak-zero-click-flaw-leaks-gmail.html
-Filename,simonmed-imaging-discloses-a-data-breach-impacting-over-1-2-million-people.html
-Filename,solarwinds-fixed-a-critical-rce-flaw-in-its-web-help-desk-software.html
-Filename,solarwinds-releases-hotfix-for-critical.html
-Filename,sonicwall-urges-password-resets-after.html
-Filename,sonicwall-warns-customers-to-reset-credentials-after-mysonicwall-backups-were-exposed.html
-Filename,state-sponsored-hackers-exploiting.html
-Filename,Stealit Malware Abuses Node.js
-Filename,stealit-malware-abuses-nodejs-single.html
 Filename,svchost.exe
-Filename,ta558-uses-ai-generated-scripts-to.html
-Filename,Teams.exe
-Filename,Teams_Installer.exe
-Filename,Teams_setup.exe
-Filename,tech-overtakes-gaming-as-top-ddos.html
-Filename,two-new-supermicro-bmc-bugs-allow.html
-Filename,u-s-cisa-adds-adminer-cisco-ios-fortra-goanywhere-mft-libraesva-esg-and-sudo-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,u-s-cisa-adds-cisco-secure-firewall-asa-and-secure-ftd-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,u-s-cisa-adds-google-chromium-flaw-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,u-s-cisa-adds-grafana-flaw-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,u-s-cisa-adds-microsoft-wsus-and-adobe-commerce-and-magento-open-source-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,u-s-cisa-adds-oracle-mozilla-microsoft-windows-linux-kernel-and-microsoft-ie-flaws-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,u-s-cisa-adds-synacor-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html
-Filename,uk-arrest-two-teen-scattered-spider.html
-Filename,uk-convicts-chinese-national-in-5-5b-crypto-fraud-marks-worlds-largest-bitcoin-seizure.html
-Filename,uk-police-arrested-two-teen-scattered-spider-members-linked-to-the-2024-attack-on-transport-for-london.html
-Filename,uk-police-just-seized-55-billion-in.html
-Filename,unc5221-uses-brickstorm-backdoor-to.html
+Filename,teams.exe
+Filename,teams_installer.exe
+Filename,teams_setup.exe
 Filename,update_patch.exe
 Filename,update_patch.exe
-Filename,urgent-china-linked-hackers-exploit-new.html
-Filename,urgent-cisco-asa-zero-day-duo-under.html
-Filename,VGAuthService.exe
-Filename,virustotal-success-stories-seqrite.html
+Filename,vgauthservice.exe
 Filename,vssadmin.exe
 Filename,w3wp.exe
-Filename,WerFault.exe
+Filename,werfault.exe
 Filename,wermgr.exe
-Filename,westjet-confirms-cyberattack-exposed-ids-passports-in-june-incident.html
 Filename,wscript.exe
 Filename,wsusservice.exe
-Filename,zimbra-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html
-Filename,zimbra-zero-day-exploited-to-target.html
 IP,1.2.3.4
 IP,103.145.13.87
-IP,136.243.146[.]46
+IP,136.243.146.46
 IP,139.180.160.173
 IP,155.138.150.12
 IP,169.254.169.254
@@ -694,23 +425,14 @@ IP,185.225.88.242
 IP,185.225.89.250
 IP,185.225.89.251
 IP,185.225.89.252
-IP,185.225.90.260
-IP,185.225.90.260
-IP,185.225.90.261
-IP,185.225.90.261
-IP,185.225.90.262
-IP,185.225.90.262
-IP,185.225.91.270
-IP,185.225.91.271
-IP,185.225.91.272
 IP,185.62.189.88
 IP,19.20.0.1
-IP,200.58.107[.]25
+IP,200.58.107.25
 IP,45.153.160.140
 IP,45.153.160.141
 IP,45.153.160.142
 IP,45.9.148.182
-IP,85.239.52[.]32
+IP,85.239.52.32
 IP,91.200.14.69
 IP,91.215.85.198
 MD5,03c7c0ace395d80182db07ae2c30f034
