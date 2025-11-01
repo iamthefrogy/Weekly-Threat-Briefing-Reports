@@ -26,3 +26,5 @@ SHA256,94aa6619c61d434e96ca8d128731eb7ee81e399a59a17f751a31b564a7f3a722,27-Oct-2
 SHA256,b60100729de2f468caf686638ad513fe28ce61590d2b0d8db85af9edc5da98f9,21-Oct-2025.md; 22-Oct-2025.md,Jun 2025,Current,COLDRIVER (MAYBEROBOT),High,【<https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/>】,Obfuscated PowerShell backdoor,Block,Permanent
 SHA256,e1ea0b557c3bda5c1332009628f37299766ac5886dda9aaf6bc902145c41fd10,23-Oct-2025.md,Unknown,2025-10-23,UNC6229,High,<https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/>,Malware payload.,Block,2026-04-23
 SHA256,f8c119bfc057dc027e6c54b966d168ee1ef38c790e581fb44cf965ca0408db1d,27-Oct-2025.md,2025-10-27,2025-10-27,Earth Estries,High,【[1](https://bartblaze.blogspot.com/2025/10/earth-estries-alive-and-kicking.html)】,CAB file storing `ccwkrlib.dll`,,
+Filename,outlook.com
+Domain Name,microsoft.com
